@@ -264,15 +264,14 @@
                 <sex>F</sex>
             </person>
 
-            <!--Marco Vissani-->
-            <person xml:id="MV" role="videomaker">  
+            <!---->
+            <person  role="videomaker">  
                 <persName>
-                    <ref target="https://www.unipi.it/en/about-us/organisation/people/marina-riccucci-5196-en/"/>
-                    <forename>Marco</forename>
-                    <surname>Vissani</surname>
+                    <forename></forename>
+                    <surname></surname>
                 </persName>
 
-                <sex>F</sex>
+                <sex></sex>
             </person>
  
             <!--Primo Levi-->

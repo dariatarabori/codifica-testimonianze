@@ -133,40 +133,113 @@
             <abstract>   <!--ogni item corrisponde alle varie clip in cui è suddivisa la videotestimonianza in sede di montaggio-->
                 <ab>
                     <list>
-                        <item synch="#TR1"> <!-- -->
-                           
+                        <item synch="#TR1"> <!--Dal passato per non dimenticare-->
+                            Pur avendo vissuto diverse tragedie familiari e pur essendo passati quasi 80 anni, Goti Bauer afferma che quando si trova da sola la sera, 
+                            <placeName ref="#Au">Auschwitz</placeName> è ancora vivo nei suoi ricordi, la sua testa è sempre là. 
+                            Rivolge anche parole di stima per la tedesca<persName ref="#AM">Angela Merkel</persName>.
                         </item>
     
-                        <item synch="#TR2"> <!---->
-                            
+                        <item synch="#TR2"> <!--Anno 1938 - Il voltafaccia di un’amica-->
+                            Nel <date when="1938">1938</date> con l'emanazione delle Leggi Razziali, Goti racconta di essere stata abbandonata dalla sua migliore amica 
+                            <persName ref="#mirella">Mirella</persName> per volere del padre, convinto fascista, e di aver sofferto molto per questo. 
+                            Nonostante tutto però ci sono stati anche molti paesani che non le hanno voltato le spalle, come la signora 
+                            <persName ref="#AB">Angelina Braida</persName>, vicina di casa di <placeName ref="#Fiu"></placeName>Fiume
                         </item>
     
-                        <item synch="#TR3"> <!---->
-                            
+                        <item synch="#TR3"> <!--Aiutare la famiglia, “fare scuola”-->
+                            A causa delle Leggi, il <rs type="person" ref="#LH">padre</rs> di Goti aveva perso il lavoro, mentre lei che aveva terminato la terza media non poteva proseguire il percorso scolastico.
+                            Per cui per guadagnare qualcosa e aiutare in casa Goti dava lezioni a studenti più piccoli e parallelamente andava a lezione da studenti universitari
+                            poiché non poteva permettersi professori privati. Goti racconta che dopo il <date when="1938">1938</date> molti insegnanti si erano mostrati dispiaciuti 
+                            per l'espulsione dei propri studenti e avevano mostrato solidarietà telefonando o mandando biglietti. Per un periodo lei aveva anche dato lezioni a giovani
+                            soldati, che dedicavano le ore libere della sera allo studio ed era anche riuscita ad arrivare alla maturità.
                         </item>
     
-                        <item synch="#TR4"> <!---->
-                            
+                        <item synch="#TR4"> <!--Da Fiume ad Auschwitz-->
+                            A <placeName ref="#Mi">Milano</placeName> c'era una coppia che si occupava di aiutare gli ebrei a scappare in <placeName ref="#CH">Svizzera</placeName>, e 
+                            proprio a loro si rivolgono anche Goti e la sua famiglia. Purtroppo però le guide nelle cui mani vengono lasciati e che avrebbero dovuto aiutarli a 
+                            passare il confine li tradiscono e li fanno arrestare. Dopo essere passati da un carcere all'altro, precisamente <placeName ref="#Va">Varese</placeName>, 
+                            <placeName ref="#Co">Como</placeName> e <placeName ref="#SV">San Vittore</placeName>, Goti viene caricata con gli altri sul treno per 
+                            <placeName ref="#Au">Auschwitz</placeName>.
                         </item>
     
-                        <item synch="#TR5"> <!---->
-                            
+                        <item synch="#TR5"> <!--Destinazione ignota-->
+                            Goti racconta che i Tedeschi non dicono dove li stanno portando, ma solo che sarebbero andati in qualche fabbrica a lavorare. Invece dopo quasi una settimana 
+                            giungono ad <placeName ref="#Au">Auschwitz</placeName>, posto fino ad allora sconosciuto per loro. Goti non ha più visto nessuno della sua famiglia: i suoi genitori 
+                            sono stati mandati subito al gas, mentre suo <rs type="person">fratello</rs> ha scoperto molti anni dopo, essere morto dopo la liberazione.
                         </item>
     
-                        <item synch="#TR6"> <!---->
-                            
+                        <item synch="#TR6"> <!--La fuga di Egon-->
+                            Goti racconta che una persona, un certo <persName ref="#EgonG">Egon Grünberger</persName>, era riuscita a fuggire dal treno e a tornare dalla <rs type="person" ref="#ES">moglie</rs>, mentre i 
+                            suoi familiari che non erano riusciti a scendere trovarono la morte ad <placeName ref="#Au">Auschwitz</placeName>.
                         </item>
 
-                        <item synch="#TR7"> <!---->
-                            
+                        <item synch="#TR7"> <!--La Bahnrampe-->
+                            Goti ripercorre il suo arrivo nella notte del <date when="1944-05-23">23 maggio 1944</date> ad <placeName ref="#Au">Auschwitz</placeName> direttamente all'interno sulla 
+                            <placeName ref="#Bahnrampe">Bahnrampe</placeName>.
                         </item>
 
-                        <item synch="#TR8"> <!---->
-                            
+                        <item synch="#TR8"> <!--La separazione sulla Bahnrampe - Parole atroci di verità-->
+                            Goti racconta lo strazio dell'essere separati dalla propria famiglia e la risposta che veniva loro data dai Tedeschi, ovvero che si sarebbero rivisti tutti più tardi. 
+                            Una volta entrata però, delle deportate che erano lì da più tempo, le avevano detto freddamente che non avrebbe più rivisto nessuno e che sarebbero morti tuttti e lei era rimasta sconvolta
+                            da quelle parole.
                         </item>
 
-                        <item synch="#TR9"> <!---->
-                            
+                        <item synch="#TR9"> <!--La baracca della Quarantena-->
+                            Goti racconta di essere stata messa subito nella baracca 31, nel lager A, in cui i deportati trascorrevano un periodo iniziale di Quarantena, dopodiché quando arrivavano altri
+                            prigionieri, quelli che erano lì da prima venivano smistati altrove.
+                        </item>
+
+                        <item synch="#TR10"><!--I bambini morti ad Auschwitz-->
+                            Goti Bauer afferma di essere riconoscente verso chi si occupa ancora di questa immane tragedia, soprattutto per il milione e mezzo di bambini che da <placeName ref="#Au">Auschwitz</placeName> non è più 
+                            uscito, ma anche perché teme che tutto questo possa essere dimenticato.
+                        </item>
+
+                        <item synch="#TR11"><!--Il suicidio e la difficoltà di vivere-->
+                            Goti parla della difficoltà di vivere ricordando costantemente la vita nel lager, ma afferma anche di non aver mai pensato al suicidio e di non credere neanche al fatto
+                            che <persName ref="#PL">Primo Levi</persName> si sia suicidato. Era un uomo razionale, benvoluto da tutti, era padre di due figli e aveva una madre da accudire, per cui
+                            lei non pensa sia andata così. Goti non ha mai perdonato i Tedeschi e afferma che oggi non vorrebbe avere rapporti di amicizia con loro, pur riservando parole positive nei confronti
+                            di <persName ref="#AM">Angela Merkel</persName> e anche verso la <placeName ref="#DE">Germania</placeName> come nazione, che è stata in grado di costruire una democrazia 
+                            tra le migliori in <placeName ref="#EU">Europa</placeName>.
+                        </item>
+
+                        <item synch="#TR12">
+
+                        </item>
+
+                        <item synch="#TR13">
+
+                        </item>
+
+                        <item synch="#TR14">
+
+                        </item>
+
+                        <item synch="#TR15">
+
+                        </item>
+
+                        <item synch="#TR16">
+
+                        </item>
+
+                        <item synch="#TR17">
+
+                        </item>
+
+                        <item synch="#TR18">
+
+                        </item>
+
+                        <item synch="#TR19">
+
+                        </item>
+
+                        <item synch="#TR20">
+
+                        </item>
+
+                        <item synch="#TR21">
+
                         </item>
                         
                     </list>
@@ -187,16 +260,20 @@
             <when xml:id="TR5" absolute="00:12:55"/> <!--Destinazione ignota-->
             <when xml:id="TR6" absolute="00:14:22"/> <!--La fuga di Egon--><!--qui non c'è video ma solo audio-->
             <when xml:id="TR7" absolute="00:15:22"/> <!--La Bahnrampe-->
-            <when xml:id="TR8" absolute="00:16:15"/> <!--La separazione sulla Bahnrampe-->
+            <when xml:id="TR8" absolute="00:16:15"/> <!--La separazione sulla Bahnrampe - Parole atroci di verità-->
             <when xml:id="TR9" absolute="00:18:15"/> <!--La baracca della Quarantena-->
             <when xml:id="TR10" absolute="00:19:33"/> <!--I bambini morti ad Auschwitz-->
             <when xml:id="TR11" absolute="00:20:15"/> <!--Il suicidio e la difficoltà di vivere-->
-            <when xml:id="TR12" absolute="00:24:10"/> <!--Durch den Kamin--><!--clip vecchia intervista-->
+            <when xml:id="TR12" absolute="00:24:10"/> <!--Durch den Kamin--><!--clip da vecchia intervista-->
             <when xml:id="TR13" absolute="00:27:55"/> <!--Hanna Elena Kugler-->
             <when xml:id="TR14" absolute="00:28:53"/> <!--Shlomo Venezia-->
             <when xml:id="TR15" absolute="00:30:45"/> <!--Il ritratto della madre-->
-            <when xml:id="TR16" absolute="00:31:34"/> <!--Il ritorno - Fiume: alla porta di Angelina Braida--><!--A Milano: ospite dei Reiss-->
+            <when xml:id="TR16" absolute="00:31:34"/> <!--Il ritorno - Fiume: alla porta di Angelina Braida - A Milano: ospite dei Reiss-->
             <when xml:id="TR17" absolute="00:34:43"/> <!--Storia di un matrimonio-->
+            <when xml:id="TR18" absolute="00:37:14"/> <!--Il tatuaggio-->
+            <when xml:id="TR19" absolute="00:37:57"/> <!--Come raccontare la Shoah nelle scuole?--><!--Amicizia con Daniela Padoan--><!--Suggerimenti--><!--L'amicizia con Elena Zennaro-->
+            <when xml:id="TR20" absolute="00:42:39"/> <!--Goti racconta il suo incontro con Liliana--><!--qui non c'è video ma solo audio-->
+            <when xml:id="TR21" absolute="00:48:25"/><!--Tornare ad Auschwitz-->
         </timeline>
 
         <!--Timeline cambio di parlante TLP-->
@@ -305,6 +382,52 @@
             <when xml:id="tlp102" synch="#gb56" absolute="00:35:11"/><!--no video solo audio-->
             <when xml:id="tlp103" synch="#mr31" absolute="00:35:39"/><!--no video solo audio-->
             <when xml:id="tlp104" synch="#gb57" absolute="00:35:40"/>
+            <when xml:id="tlp105" synch="#gb58" absolute="00:37:14"/>
+            <when xml:id="tlp106" synch="#mr32" absolute="00:37:31"/>
+            <when xml:id="tlp107" synch="#gb59" absolute="00:37:32"/>
+            <when xml:id="tlp108" synch="#gb60" absolute="00:37:57"/>
+            <when xml:id="tlp109" synch="#mr33" absolute="00:38:33"/>
+            <when xml:id="tlp110" synch="#gb61" absolute="00:38:34"/>
+            <when xml:id="tlp111" synch="#mr34" absolute="00:39:30"/>
+            <when xml:id="tlp112" synch="#gb62" absolute="00:39:31"/>
+            <when xml:id="tlp113" synch="#gb63" absolute="00:42:39"/>
+            <when xml:id="tlp114" synch="#mr35" absolute="00:43:00"/><!--no video solo audio-->
+            <when xml:id="tlp115" synch="#gb64" absolute="00:43:16"/><!--no video solo audio-->
+            <when xml:id="tlp116" synch="#mr36" absolute="00:43:15"/><!--no video solo audio-->
+            <when xml:id="tlp117" synch="#gb65" absolute="00:43:30"/><!--no video solo audio-->
+            <when xml:id="tlp118" synch="#mr37" absolute="00:43:37"/><!--no video solo audio-->
+            <when xml:id="tlp119" synch="#gb66" absolute="00:43:37"/><!--no video solo audio-->
+            <when xml:id="tlp120" synch="#mr38" absolute="00:43:39"/><!--no video solo audio-->
+            <when xml:id="tlp121" synch="#gb67" absolute="00:43:45"/><!--no video solo audio-->
+            <when xml:id="tlp122" synch="#mr39" absolute="00:45:56"/><!--no video solo audio-->
+            <when xml:id="tlp123" synch="#gb68" absolute="00:46:00"/><!--no video solo audio-->
+            <when xml:id="tlp124" synch="#mr40" absolute="00:46:13"/><!--no video solo audio-->
+            <when xml:id="tlp125" synch="#gb69" absolute="00:46:14"/><!--no video solo audio-->
+            <when xml:id="tlp126" synch="#mr41" absolute="00:46:17"/><!--no video solo audio-->
+            <when xml:id="tlp127" synch="#gb70" absolute="00:46:18"/><!--no video solo audio-->
+            <when xml:id="tlp128" synch="#mr42" absolute="00:46:30"/><!--no video solo audio-->
+            <when xml:id="tlp129" synch="#gb71" absolute="00:46:31"/><!--no video solo audio-->
+            <when xml:id="tlp130" synch="#mr43" absolute="00:47:13"/><!--no video solo audio-->
+            <when xml:id="tlp131" synch="#gb72" absolute="00:47:31"/><!--no video solo audio-->
+            <when xml:id="tlp132" synch="#mr44" absolute="00:47:37"/><!--no video solo audio-->
+            <when xml:id="tlp133" synch="#gb73" absolute="00:47:38"/><!--no video solo audio-->
+            <when xml:id="tlp134" synch="#mr45" absolute="00:47:40"/><!--no video solo audio--> 
+            <when xml:id="tlp135" synch="#gb74" absolute="00:47:44"/><!--no video solo audio--> 
+            <when xml:id="tlp136" synch="#mr46" absolute="00:47:47"/><!--no video solo audio--> 
+            <when xml:id="tlp137" synch="#gb75" absolute="00:47:48"/><!--no video solo audio-->
+            <when xml:id="tlp138" synch="#mr47" absolute="00:47:51"/><!--no video solo audio-->
+            <when xml:id="tlp139" synch="#gb76" absolute="00:47:52"/><!--no video solo audio-->
+            <when xml:id="tlp140" synch="#mr48" absolute="00:47:55"/><!--no video solo audio-->
+            <when xml:id="tlp141" synch="#gb77" absolute="00:47:56"/><!--no video solo audio-->
+            <when xml:id="tlp142" synch="#gb78" absolute="00:48:25"/>
+            <when xml:id="tlp143" synch="#mr49" absolute="00:48:26"/>
+            <when xml:id="tlp144" synch="#gb79" absolute="00:48:27"/>
+            <when xml:id="tlp145" synch="#mr50" absolute="00:48:34"/>
+            <when xml:id="tlp146" synch="#gb80" absolute="00:48:34"/> 
+            <when xml:id="tlp147" synch="#lr17" absolute="00:48:36"/>
+            <when xml:id="tlp148" synch="#gb81" absolute="00:48:36"/>
+
+
         </timeline>
 
          <!--TimeLine Sovrapposizione di parlanti TLS -->
@@ -350,6 +473,33 @@
             <when xml:id="tls37" since="#tls36" interval="1"/>
             <when xml:id="tls38" absolute="00:30:10"/>
             <when xml:id="tls39" since="#tls38" interval="1"/>
+            <when xml:id="tls40" absolute="00:37:31"/>
+            <when xml:id="tls41" since="#tls40" interval="1"/>
+            <when xml:id="tls42" absolute="00:43:30"/>
+            <when xml:id="tls43" since="#tls42" interval="1"/>
+            <when xml:id="tls44" absolute="00:43:37"/>
+            <when xml:id="tls45" since="#tls44" interval="1"/>
+            <when xml:id="tls46" absolute="00:43:39"/>
+            <when xml:id="tls47" since="#tls46" interval="1"/>
+            <when xml:id="tls48" absolute="00:46:14"/>
+            <when xml:id="tls49" since="#tls48" interval="1"/>
+            <when xml:id="tls50" absolute="00:46:17"/>
+            <when xml:id="tls51" since="#tls50" interval="1"/>
+            <when xml:id="tls52" absolute="00:47:37"/>
+            <when xml:id="tls53" since="#tls52" interval="1"/>
+            <when xml:id="tls54" absolute="00:47:38"/>
+            <when xml:id="tls55" since="#tls54" interval="1"/>
+            <when xml:id="tls56" absolute="00:47:44"/>
+            <when xml:id="tls57" since="#tls56" interval="1"/>
+            <when xml:id="tls58" absolute="00:47:47"/>
+            <when xml:id="tls59" since="#tls58" interval="1"/>
+            <when xml:id="tls60" absolute="00:47:51"/>
+            <when xml:id="tls61" since="#tls60" interval="1"/>
+            <when xml:id="tls62" absolute="00:47:55"/>
+            <when xml:id="tls63" since="#tls62" interval="1"/>
+            <when xml:id="tls64" absolute="00:48:26"/>
+            <when xml:id="tls65" since="#tls64" interval="1"/>
+
             
             
 
@@ -406,19 +556,81 @@
             </person> 
 
             <!---->
-            <person xml:id="MV" role="videomaker">  
+            <!-- <person xml:id="" role="videomaker">  
                 <persName>
                     <forename>Nome</forename>
                     <surname>Cognome</surname>
                 </persName>
 
+                <sex>M</sex>
+            </person> -->
+
+            <!-- Rosanna Bauer -->
+            <person xml:id="RosB" source="https://www.wikimilano.it/wiki/Rosanna_Bauer_Biazzi">
+
+                <persName>      
+                    <forename>Rosanna</forename>
+                    <surname>Bauer Biazzi</surname>
+                </persName>
+
                 <sex>F</sex>
+
+                <birth>
+                    <date when="1949-06-20" cert="high">20 giugno 1949</date>
+                </birth>
+
+                <note> Figlia di Goti Bauer</note>
+
+            </person>
+
+            <!-- Figlia di Goti Bauer -->
+            <person xml:id="NB" resp="#DT">
+
+                <persName>      
+                    <forename>Nadia</forename>
+                    <surname>Bauer Premoli</surname>
+                </persName>
+
+                <sex>F</sex>
+
+                <birth>
+                    <date when="1948" cert="high"> 1948</date>
+                </birth>
+
+                <death>
+                    <date when="1993" cert="high">1993</date>
+                </death>
+
+                <note> Figlia di Goti Bauer</note>
+
+            </person>
+
+            <!-- Nipote di Goti Bauer -->
+            <person xml:id="FB" resp="#DT">
+
+                <persName>      
+                    <forename>Federica</forename>
+                    <surname>Biazzi</surname>
+                </persName>
+
+                <sex>F</sex>
+
+                <birth>
+                    <date when="1977" cert="high"> 1977</date>
+                </birth>
+
+                <death>
+                    <date when="1998" cert="high">1998</date>
+                </death>
+
+                <note>Nipote di Goti Bauer</note>
+
             </person>
 
             <!--Angela Merkel-->
             <person xml:id="AM">  
                 <persName>
-                    <ref target="https://digital-library.cdec.it/cdec-opac/person/detail/person-5002/levi-primo"/>
+                    <ref target="https://it.wikipedia.org/wiki/Angela_Merkel"/>
                     <forename>Angela Dorothea</forename>
                     <surname>Kasner Merkel</surname>
                 </persName>
@@ -441,7 +653,7 @@
                 <persName>                  
                     <forename>Mirella</forename>
                 </persName>
-                <note>Amica di banco di Goti, che smette di parlarle poichè suo padre era fascista.</note>
+                <note>Amica di banco di Goti, che smette di parlarle poiché suo padre era fascista.</note>
             </person>
 
             <!--Angelina Braida-->
@@ -648,7 +860,6 @@
             </person>
 
             <!--Ester Luzzati Levi-->
-
             <person xml:id="EL">  
                 <persName>
                     <ref target="https://digital-library.cdec.it/cdec-opac/person/detail/person-22682/luzzatti-ester https://www.wikitree.com/wiki/Luzzati-1"/>
@@ -923,10 +1134,9 @@
             <personGrp xml:id="pg1" role="friends" sex="mixed" size="approx 3"/>
 
             <!--Fratello di Rosa Rebecca Amster-->
-            <person xml:id="fratelladiRRA" source="">   
+            <person xml:id="fratelladiRRA" >   
                 
                 <persName>
-                    <ref target=""/>
                     <forename></forename>
                     <surname>Amster</surname>
                 </persName>
@@ -936,10 +1146,9 @@
             </person>
 
             <!--Carlotta Reiss-->
-            <person xml:id="CReiss" source="">   
+            <person xml:id="CReiss" >   
                 
                 <persName>
-                    <ref target=""/>
                     <forename>Carlotta</forename>
                     <surname>Rosenfeld Reiss</surname>
                 </persName>
@@ -947,7 +1156,7 @@
                 <sex>F</sex>
 
                 <birth>
-                    <date when="" cert="high"></date>
+                    <date cert="high"></date>
                     <placeName>
                         <settlement type="district"></settlement>
                         <country key=""></country>
@@ -955,16 +1164,16 @@
                 </birth>
 
                 <death>
-                    <date when="" cert="high"></date>
+                    <date cert="high"></date>
                 </death>
 
             </person>
 
             <!--Lea Reiss figlia di Carlotta Reiss-->
-            <person xml:id="LReiss" source="">   
+            <person xml:id="LReiss" >   
                 
                 <persName>
-                    <ref target=""/>
+                    <ref />
                     <forename>Lea</forename>
                     <surname>Reiss</surname>
                 </persName>
@@ -972,7 +1181,7 @@
                 <sex>F</sex>
 
                 <birth>
-                    <date when="" cert="high"></date>
+                    <date  cert="high"></date>
                     <placeName>
                         <settlement type="district"></settlement>
                         <country key=""></country>
@@ -980,16 +1189,15 @@
                 </birth>
 
                 <death>
-                    <date when="" cert="high"></date>
+                    <date  cert="high"></date>
                 </death>
 
             </person>
 
             <!--Amalia Rosenfeld sorella di Carlotta e zia di Lea AR-->
-            <person xml:id="AR" source="">   
+            <person xml:id="AR" >   
                 
                 <persName>
-                    <ref target=""/>
                     <forename>Amalia</forename>
                     <surname>Rosenfeld Lager</surname>
                 </persName>
@@ -997,7 +1205,7 @@
                 <sex>F</sex>
 
                 <birth>
-                    <date when="" cert="high"></date>
+                    <date  cert="high"></date>
                     <placeName>
                         <settlement type="district"></settlement>
                         <country key=""></country>
@@ -1005,7 +1213,7 @@
                 </birth>
 
                 <death>
-                    <date when="" cert="high"></date>
+                    <date  cert="high"></date>
                 </death>
 
             </person>
@@ -1099,20 +1307,62 @@
                 </birth>
 
                 <death>
-                    <date when="" cert="high"></date>
+                    <date cert="high"></date>
                 </death>
                     
                 <note>Leopoldo Bauer è stato il padre di Rodolfo Bauer.</note>
                 
             </person>
 
-            <!--_____________________________________________________________-->
+            <!--Daniela Padoan-->
+            <person xml:id="DP">
+                <persName>
+                    <ref target="https://it.wikipedia.org/wiki/Daniela_Padoan"/>
+                    <forename>Daniela</forename>
+                    <surname>Padoan</surname>
+                </persName>
 
+                <sex>F</sex>
 
+                <birth>
+                    <date when="1958-11-25" cert="high">25 novembre 1958</date>
+                    <placeName>
+                        <settlement type="municipality">Bologna</settlement>
+                        <country key="IT">Italia</country>
+                    </placeName>
+                </birth>
 
-            
+                <note>Daniela Padoan è una scrittrice e saggista italiana. I suoi principali argomenti di ricerca, indagati tramite libri, documentari e interviste, sono la testimonianza della Shoah e la resistenza femminile ai regimi, dall'Argentina al Ruanda.</note>
 
-            
+            </person>
+
+            <!--Elisa Guida-->
+            <person xml:id="eGuida">
+                <persName>
+                    <ref target="https://www.viella.it/catalogo/autore/6319/elisa-guida"/>
+                    <forename>Elisa</forename>
+                    <surname>Guida</surname>
+                </persName>
+
+                <sex>F</sex>
+
+                <note>Elisa Guida insegna presso il Liceo artistico F. Orioli di Viterbo. È socia fondatrice e membro del comitato scientifico dell’Associazione Arte in Memoria, responsabile del Progetto memorie d’inciampo a Roma. È responsabile della didattica storica e dei rapporti con le scuole per l’Istoreco di Viterbo. È studiosa della Shoah e del “ritorno” nei suoi diversi aspetti socio-culturali. Tra le sue pubblicazioni: Senza perdere la dignità. Una biografia di Piero Terracina (Viella, 2021), La strada di casa. Il ritorno in Italia dei sopravvissuti alla Shoah (Viella, 2017).</note>
+
+            </person>
+
+            <!--Elena Zennaro-->
+            <person xml:id="EZ">
+                <persName>
+                    <!--<ref target=""/>-->
+                    <forename>Elena</forename>
+                    <surname>Zennaro</surname>
+                </persName>
+
+                <sex>F</sex>
+
+                <note>Elena Zennaro è una professoressa di un liceo scientifico di Milano, adesso è in pensione. È rimasta in contattop con Goti Bauer.</note>
+
+            </person>
 
             <!--Dante Alighieri-->
             <person xml:id="DA" role="poeta">  
@@ -1143,6 +1393,59 @@
                 <note>Dante Alighieri, o Alighiero, battezzato Durante di Alighiero degli Alighieri e anche noto con il solo nome di Dante, della famiglia Alighieri (Firenze, tra il 14 maggio e il 13 giugno 1265 – Ravenna, notte tra il 13 e il 14 settembre 1321), è stato un poeta, scrittore e politico italiano.</note>
             </person>
 
+            <!--Virgilio-->
+            <person xml:id="VIRG" role="poet">  
+                <persName>
+                    <ref target="https://it.wikipedia.org/wiki/Publio_Virgilio_Marone"/>
+                    <forename>Publio Virgilio</forename>
+                    <surname>Marone</surname>
+                    <addName type="alias">Virgilio</addName> 
+                </persName>
+
+                <sex>M</sex>
+
+                <birth>
+                    <date when="-0069-10-15" cert="medium">15 ottobre 70 a.C.</date> 
+                    <placeName>
+                        <settlement type="village">Andes</settlement>
+                        <country key="IT">Italia</country>
+                    </placeName>
+                </birth>
+
+                <death>
+                    <date when="-0018-09-21" cert="high">21 settembre 19 a.C.</date>
+                    <placeName>
+                        <settlement type="municipality">Brindisi</settlement>
+                        <country key="IT">Italia</country>
+                    </placeName>
+                </death>
+
+                <note>Publio Virgilio Marone, noto semplicemente come Virgilio (in latino Publius Vergilius Maro), Andes, 15 ottobre 70 a.C. – Brindisi, 21 settembre 19 a.C.[1], è stato un poeta romano, autore di tre opere, tra le più famose e influenti della letteratura latina: le Bucoliche, le Georgiche, e l'Eneide.</note>
+            </person>
+
+            <!--Gianna Sternfeld Pavia-->
+            <person xml:id="GSP" source="https://www.myheritage.it/research/">   
+                
+                <persName>
+                    <ref target="https://www.myheritage.it/research/"/>
+                    <forename>Gianna</forename>
+                    <surname>Sternfeld Pavia</surname>
+                </persName>
+
+                <sex>F</sex>
+
+                <birth>
+                    <date when="1923" cert="high" resp="#DT">1923</date>
+                </birth>
+
+                <death>
+                    <date when="2023" cert="high" resp="#DT">2023</date>
+                </death>
+                    
+                <note>Gianna è stata membro attivo dell’Organizzazione ADEI-WIZO – Italia.</note>
+                
+            </person>
+
             <!--Giuliana Donati-->
             <person xml:id="GD">
                 <persName>
@@ -1163,87 +1466,39 @@
 
                 <note>Giuliana Donati è stata collaboratrice del CDEC fra gli anni '60 e '70. Fra il 1972 e il 1974 ha condotto per il CDEC le prime ricerche per la revisione dell'elenco dei deportati dall'Italia compilato da Massimo Adolfo Vitale.</note>
 
-
             </person>
 
-            <!--Mario Donati-->
-            <person xml:id="MD" role="medico">  
+            <!--Walter Veltroni-->
+            <person xml:id="WV" source="https://it.wikipedia.org/wiki/Walter_Veltroni">   
+                
                 <persName>
-                    <ref target="https://it.wikipedia.org/wiki/Mario_Donati"/>
-                    <roleName>Dottore</roleName>
-                    <forename>Mario</forename>
-                    <surname>Donati</surname>
+                    <ref target="https://it.wikipedia.org/wiki/Walter_Veltroni"/>
+                    <forename>Walter</forename>
+                    <surname>Veltroni</surname>
+                    <roleName type="honorific" subtype="italian">Cavaliere di Gran Croce dell'Ordine al Merito della Repubblica Italiana</roleName>
+                    <roleName type="honorific" subtype="osterreich">Gran Decorazione d'Onore in Argento con Fascia</roleName>
+                    <roleName type="honorific" subtype="malta">Gran Croce dell'Ordine pro merito Melitensi (SMOM)</roleName>
+                    <roleName type="honorific" subtype="french">Ufficiale dell'Ordine della Legion d'Onore</roleName>
                 </persName>
 
                 <sex>M</sex>
 
                 <birth>
-                    <date when="1879-02-24" cert="high"> 24 febbraio 1879</date>
+                    <date when="1955-07-03" cert="high">3 luglio 1955</date>
                     <placeName>
-                        <settlement type="municipality">Modena</settlement>
+                        <settlement type="municipality">Roma</settlement>
                         <country key="IT">Italia</country>
                     </placeName>
                 </birth>
 
-                <death>
-                    <date when="1946-01-21" cert="high">21 gennaio 1946</date>
-                    <placeName>
-                        <settlement type="municipality">Milano</settlement>
-                        <country key="IT">Italia</country>
-                    </placeName>
-                </death>
-
-                <note> Considerato il più prestigioso chirurgo italiano tra le due guerre, nacque da Cesare, consigliere del comune di Modena e della Banca Popolare di Modena, e da Carolina Mortara. La famiglia Donati faceva parte della Comunità Ebraica di Modena dal 1606. </note>
-
-            </person>
-
-            <!-- Figlia di Goti Bauer -->
-            <person xml:id="NadiaBauer">
-
-                <persName>      
-                    <forename>Nadia</forename>
-                    <surname>Bauer Premoli</surname>
-                </persName>
-
-                <sex>F</sex>
-
-                <birth>
-                    <date when="1948" cert="high"> 1948</date>
-                </birth>
-
-                <death>
-                    <date when="1993" cert="high">1993</date>
-                </death>
-
-                <note> Figlia di Goti Bauer</note>
-
-            </person>
-
-            <!-- Nipote di Goti Bauer -->
-            <person xml:id="FedericaBiazzi">
-
-                <persName>      
-                    <forename>Federica</forename>
-                    <surname>Biazzi</surname>
-                </persName>
-
-                <sex>F</sex>
-
-                <birth>
-                    <date when="1977" cert="high"> 1977</date>
-                </birth>
-
-                <death>
-                    <date when="1998" cert="high">1998</date>
-                </death>
-
-                <note>Nipote di Goti Bauer</note>
-
+                <note>Walter Veltroni (Roma, 3 luglio 1955) è un politico, giornalista, scrittore e regista italiano.</note>
+                
             </person>
             
         </listPerson>
         
-        <listPlace>      
+        <listPlace>     
+            <!--Auschwitz--> 
             <place xml:id="Au" source="https://www.treccani.it/enciclopedia/auschwitz/">
                 <placeName>Auschwitz</placeName>
                 <country key="PL">Polonia</country>
@@ -1252,6 +1507,7 @@
                 </location>
             </place>
 
+            <!--Fiume-->
             <place xml:id="Fiu" source="https://it.wikipedia.org/wiki/Fiume_(Croazia)">
                 <placeName>Fiume</placeName>
                 <country key="CR">Croazia</country>
@@ -1260,6 +1516,7 @@
                 </location>
             </place>
 
+            <!--Croazia-->
             <place xml:id="CR" source="https://it.wikipedia.org/wiki/Croazia">
                 <placeName>Croazia</placeName>
                 <location>
@@ -1267,6 +1524,7 @@
                 </location>
             </place>
 
+            <!--Sussak-->
             <place xml:id="Sk" source="https://it.wikipedia.org/wiki/Sussak">
                 <placeName>Sussak</placeName>
                 <country key="CR">Croazia</country>
@@ -1275,6 +1533,7 @@
                 </location>
             </place>
 
+            <!--Milano-->
             <place xml:id="Mi" source="https://it.wikipedia.org/wiki/Milano">
                 <placeName>Milano</placeName>
                 <country key="IT">Italia</country>
@@ -1283,6 +1542,7 @@
                 </location>
             </place>
 
+            <!--Svizzera-->
             <place xml:id="CH" source="https://it.wikipedia.org/wiki/Svizzera">
                 <placeName>Svizzera</placeName>
                 <location>
@@ -1290,6 +1550,7 @@
                 </location>
             </place>
 
+            <!--Varese-->
             <place xml:id="Va" source="https://it.wikipedia.org/wiki/Varese">
                 <placeName>Varese</placeName>
                 <country key="IT">Italia</country>
@@ -1298,6 +1559,7 @@
                 </location>
             </place>
             
+            <!--Como-->
             <place xml:id="Co" source="https://it.wikipedia.org/wiki/Como">
                 <placeName>Como</placeName>
                 <country key="IT">Italia</country>
@@ -1306,6 +1568,7 @@
                 </location>
             </place>
 
+            <!--Carcere di San Vittore-->
             <place xml:id="SV" source="https://it.wikipedia.org/wiki/Carcere_di_San_Vittore">
                 <placeName>Carcere San Vittore</placeName>
                 <settlement>Milano</settlement>
@@ -1315,6 +1578,7 @@
                 </location>
             </place>
 
+            <!--Lombardia-->
             <place xml:id="lomb" source="https://it.wikipedia.org/wiki/Lombardia">
                 <placeName>Lombardia</placeName>
                 <location>
@@ -1322,6 +1586,7 @@
                 </location>
             </place>
 
+            <!--Germania-->
             <place xml:id="DE" source="https://it.wikipedia.org/wiki/Germania">
                 <placeName>Germania</placeName>
                 <location>
@@ -1329,10 +1594,12 @@
                 </location>
             </place>
 
+            <!--Europa-->
             <place xml:id="EU" source="https://it.wikipedia.org/wiki/Unione_europea">
                 <placeName>Europa</placeName>
             </place>
 
+            <!--Roma-->
             <place xml:id="Ro" source="https://it.wikipedia.org/wiki/Roma">
                 <placeName>Roma</placeName>
                 <country key="IT">Italia</country>
@@ -1341,6 +1608,7 @@
                 </location>
             </place>
 
+            <!--Israele-->
             <place xml:id="IS" source="https://it.wikipedia.org/wiki/Israele">
                 <placeName>Israele</placeName>
                 <location>
@@ -1348,6 +1616,7 @@
                 </location>
             </place>
 
+            <!--Rodi-->
             <place xml:id="Rodi" source="https://it.wikipedia.org/wiki/Rodi">
                 <placeName>Rodi</placeName>
                 <country key="IT">Rodi</country>
@@ -1356,6 +1625,7 @@
                 </location>
             </place>
 
+            <!--Stati Uniti d'America-->
             <place xml:id="US" source="https://it.wikipedia.org/wiki/Stati_Uniti_d%27America">
                 <placeName>Stati Uniti d'America</placeName>
                 <location>
@@ -1363,6 +1633,7 @@
                 </location>
             </place>
 
+            <!--Africa-->
             <place xml:id="AF" source="https://it.wikipedia.org/wiki/Africa">
                 <placeName>Africa</placeName>
                 <location>
@@ -1370,6 +1641,7 @@
                 </location>
             </place>
 
+            <!--Asmara-->
             <place xml:id="As" source="https://it.wikipedia.org/wiki/Asmara">
                 <placeName>Asmara</placeName>
                 <country key="ER">Eritrea</country>
@@ -1378,6 +1650,7 @@
                 </location>
             </place>
 
+            <!--Eritrea-->
             <place xml:id="ER" source="https://it.wikipedia.org/wiki/Eritrea">
                 <placeName>Eritrea</placeName>
                 <location>
@@ -1385,16 +1658,42 @@
                 </location>
             </place>
 
+            <!--Venezia-->
+            <place xml:id="Ven" source="https://it.wikipedia.org/wiki/Venezia">
+                <placeName>Venezia</placeName>
+                <country key="IT">Italia</country>
+                <location>
+                    <geo>45.440833 12.317500</geo>
+                </location>
+            </place>
 
-
-
-
-            <!--<place xml:id="POL" source="https://it.wikipedia.org/wiki/Polonia">fhjfdj
+            <!--Polonia-->
+            <place xml:id="POL" source="https://it.wikipedia.org/wiki/Polonia">
                 <placeName>Polonia</placeName>
                 <location>
                     <geo>52.215933 19.134422</geo>
                 </location>
-            </place> -->
+            </place> 
+
+            <!--Cracovia-->
+            <place xml:id="Kra" source="https://it.wikipedia.org/wiki/Cracovia">
+                <placeName>Cracovia</placeName>
+                <country key="PL">Polonia</country>
+                <location>
+                    <geo>50.061947 19.936856</geo>
+                </location>
+            </place>
+
+            <!-- banchine -->
+            <place xml:id="Judenrampe" source="https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Auschwitz">
+                <placeName>Judenrampe</placeName>
+                <note>Piccola banchina ferroviaria, universalmente nota come la rampa degli ebrei o, in tedesco, Judenrampe e situata all'esterno del campo di Auschwitz, nei pressi dello scalo merci della stazione di Oświęcim.</note>
+            </place>
+
+            <place xml:id="Bahnrampe" source="https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Auschwitz">
+                <placeName>Bahnrampe</placeName>
+                <note>La Bahnrampe di Auschwitz, rampa dei treni, fu utilizzata fino al novembre 1944 quando, per ordine del comandante delle SS Heinrich Himmler, con l'avvicinarsi delle truppe sovietiche le operazioni di sterminio furono sospese e si procedette alla liquidazione del campo.</note>
+            </place>
 
         </listPlace> 
 
@@ -1405,41 +1704,128 @@
                 <placeName>Milano</placeName>
                 <desc>La Fondazione CDEC viene ufficialmente istituita nel 1986 con sede a Milano, per proseguire l’opera del Centro di Documentazione Ebraica Contemporanea fondato a Venezia nel 1955. È un istituto di ricerca indipendente per la promozione e lo studio delle vicende, della cultura e della realtà degli ebrei in Italia dall’Emancipazione ai giorni nostri, con particolare riferimento all’Italia contemporanea e al periodo nazi-fascista. </desc>
             </org>
-            <!-- <org xml:id="SS" source="https://it.wikipedia.org/wiki/Schutzstaffel"> SS 
-                <orgName>Schutz-Staffel</orgName>
-                <placeName>Germania</placeName>
-                <desc>
-                    Le Schutz-Staffel, meglio note come SS, furono un'organizzazione paramilitare del Partito Nazionalsocialista Tedesco dei Lavoratori create nella Germania nazista.
-                </desc>
-            </org>
 
-             -->
+            <org xml:id="ADEI" source="https://www.adeiwizo.org/ https://it.wikipedia.org/wiki/Associazione_donne_ebree_d%27Italia">
+                <orgName>Associazione donne ebree d'Italia ADEI-WIZO</orgName>
+                <placeName>Milano</placeName>
+                <desc>L'Associazione donne ebree d'Italia (ADEI) è la principale associazione femminile ebraica italiana, fondata nel 1927 a Milano.</desc>
+            </org>
                            
         </listOrg>
 
         <listEvent> 
-            <!--Liberazione-->
-            <event xml:id="Liberazione" from="1943-09-08" to="1945-05-02" source="https://it.wikipedia.org/wiki/Guerra_di_liberazione_italiana">
-                <eventName>Liberazione</eventName>
-                <note> La guerra di liberazione italiana fu il complesso di operazioni militari e azioni di guerriglia condotte durante la campagna d'Italia dagli Alleati, dall'Esercito Cobelligerante Italiano e dalle brigate partigiane della resistenza italiana contro la Germania nazista e la Repubblica Sociale Italiana. La campagna si concluse con la liberazione dell'Italia dall'occupazione nazifascista.</note>
+             
+            <event type="trasferimento" from="1929" to="1944">
+                <label>Nel 1929 la famiglia Herskovitz lascia Berehove in Ungheria e si trasferisce a Fiume,dove resterà fino al 1944.</label>
+            </event> 
+
+            <event type="leggi" when="1938">
+                <label>Emanazione delle leggi razziali</label>
             </event>
 
-            <!--Shoah-->
-            <event xml:id="Shoah" from="1941" to="1945" source="https://it.wikipedia.org/wiki/Olocausto">
-                <eventName>Shoah</eventName>
-                <desc>L'Olocausto fu il genocidio di circa 6 milioni di ebrei tra il 1941 ed il 1945, di cui furono responsabili le autorità della Germania nazista, i loro alleati e i collaborazionisti. Gli ebrei furono le principali vittime tra i gruppi ritenuti dai nazisti "indesiderabili" o "inferiori" per motivi politici o razziali. Per estensione, il termine "olocausto" è a volte riferito a tutte le vittime di persecuzioni sistematiche e omicidi di massa nazisti, incluso lo sterminio dei popoli romaní, l'uccisione di civili polacchi e di altre popolazioni slave, l'uccisione dei prigionieri di guerra sovietici, degli oppositori politici, dei dissidenti religiosi come Testimoni di Geova e pentecostali, le uccisioni e le violenze contro omosessuali, persone con disabilità mentali o fisiche e i neri europei.</desc>
-            </event> 
+            <event type="armistizio" when="1943-09-03">
+                <label>’armistizio di Cassibile: Fiume viene occupata dai Tedeschi e annessa al Terzo Reich. </label>
+            </event>
+
+            <event type="partenza" when="1944-01">
+                <label>Goti parte per Viserba: qui incontra Mario Gentilini, che dietro pagamento, procura documenti falsi per tutta la famiglia. </label>
+                <label>Goti torna Fiume, ma alla stazione di Trieste scopre che il resto della sua famiglia si è rifugiato lì perché la situazione a Fiume sta precipitando</label>
+            </event>
+
+            <event type="arrivo" when="1944-02"> 
+                <label>Dopo aver sbrigato delle commissioni, Goti raggiunge a Trieste la sua famiglia</label>
+            </event>
+
+            <event type="trasferimento" when="1944-02">
+                <label>Goti, la madre e il fratello si trasferiscono a Viserba nella pensione Cornelia. Il padre resta a Trieste in clinica perché molto malato.</label>
+            </event>
+
+            <event type="tappa" when="1944-03">
+                <label>Goti e suo fratello vanno a Trieste a riprendere il padre poiché lì non è più al sicuro e tornano a Viserba.</label>
+            </event>
+
+            <event type="tappa" when="1944-04">
+                <label>Goti parte da Viserba e si reca a Bagnacavallo, dove convince alcune sue amiche e famiglie conoscenti a partire con lei per tentare la fuga in Svizzera.</label>
+            </event>
+
+            <event type="tappa" when="1944-05-01">
+                <label>Il gruppo di 12 persone raggiunge la stazione di Massa Lombarda e da lì arriva a Milano nel pomeriggio. </label>
+                <label>Qui incontrano i coniugi Kuchi, i quali mettono i profughi in contatto con chi, dietro pagamento, li avrebbe aiutati a passare il confine.</label>
+                <label>Verso le sei di sera, Eleonora Kuchi li accompagna a prendere il treno per Varese (dalla Stazione Centrale di Milano) </label>
+                <label>A Varese la donna affida il gruppo a tre ‘guide’: i cosiddetti passatori.</label>
+                <label>Da Varese il gruppo arriva, in tram, al paese di Ghirla, in Val Ganna, accompagnato dalle guide. </label>
+            </event>
+
+            <event type="arresto" when="1944-05-02">
+                <label>Arresto a Cremenaga</label>
+            </event>
+
+            <event type="tappa" when="1944-05-03">
+                <label>Goti e gli altri sono portati a Ponte Tresa al quartier generale dei Tedeschi, dove restano una notte sotto interrogatori e sotto percosse.</label>
+            </event>
+
+            <event type="carceri" from="1944-05-05" to="1944-05-07">
+                <label>Trasferimento al carcere di Como</label>
+                <label>Trasferimento in una zona limitrofa adibita a luogo di concentramento</label>
+                <label>Trasferimento al carcere di San Vittore a Milano</label> <!--7 maggio-->
+            </event>
+
+            <event type="tappa" when="1944-05-14">
+                <label>Goti e gli altri vengono portati in camion alla Stazione Centrale di Milano, Binario 21</label>
+            </event>
+
+            <event type="tappa" when="1944-05-15">
+                <label>Arrivo dalla Stazione di Carpi al campo di Fossoli</label>
+            </event>
+
+            <event type="partenza" when="1944-05-16">
+                <label>Partenza per Auschwitz del convoglio n.10</label>
+            </event>
+
+            <event type="arrivo" when="1944-05-23">
+                <label>Arrivo ad Auschwitz-Birkenau</label>
+            </event>
+
+            <event type="trasferimento" when="1944-11-16">
+                <label>Trasferimento nel lager di Wilischthal</label>
+            </event>
+
+            <event type="trasferimento" when="1945-04">
+                <label>Trasferimento al campo di Theresienstadt</label>
+            </event>
+
+            <event type="liberazione" when="1945-05-10">
+                <label>Liberazione del lager di Theresienstadt</label>
+            </event>
+
+            <event type="tappa" from="1945-05" to="1945-08">
+                <label>Tappa a Praga</label>
+                <label>Tappa a Vienna</label>
+            </event>
+
+            <event type="tappa" from="1945-08" to="1945-09">
+                <label>Goti è a Fiume ospite dei Braida</label>
+            </event>
+
+            <event type="tappa" from="1945-09" to="1946">
+                <label>Goti è a Milano ospite dei Reiss</label>
+                <label>Goti conosce Rodolfo Bauer</label>
+            </event>
+
+            <event type="trasferimento" from="1946" to="1950">
+                <label>Matrimonio e trasferimento ad Asmara in Africa, dove nascono le figlie</label>
+            </event>
+
+            <event type="trasferimento" when="1950">
+                <label>Trasferimento a Milano</label>
+            </event>
 
         </listEvent>
 
         <!-- Lista dei termini danteschi -->
         <list type="termini_danteschi" xml:id="listaTerminiDante">
-
-            <!-- Lingue -->
-
-<!--___________________________________________________________________-->
-
-        
+            <item></item>
+            <!-- Lingue -->        
 
 
         </list>  
@@ -1451,11 +1837,24 @@
                 <title> Racconta! </title>
                 <title level="s">Fiume-Birkenau-Israele</title>
                 <publisher> Giuntina</publisher>
-                <date when="1963"> 9 marzo 2006 </date>
+                <date when="2006-03-09"> 9 marzo 2006 </date>
                 <extent>117 p.</extent>
                 <idno type="ISBN-10">8880572393</idno>
                 <idno type="ISBN-13">978-8880572398</idno>
             </bibl>
+
+            <!-- La strada di casa - Il ritorno in Italia dei sopravvissuti alla Shoah-->
+            <bibl xml:id="stradadicasa"> 
+                <author ref="#eGuida"> Elisa Guida </author>
+                <title> La strada di casa </title>
+                <title level="s">Il ritorno in Italia dei sopravvissuti alla Shoah</title>
+                <publisher> Viella</publisher>
+                <date when="2017-09"> Settembre 2017 </date>
+                <extent>296 p.</extent>
+                <idno type="ISBN-13">9788867288304</idno>
+            </bibl>
+
+
         </listBibl>
 
     </standOff>
@@ -1467,11 +1866,13 @@
                 <u who="#BAUER" xml:id="gb1" synch="#tlp1"> 
                     <seg> 
                         <shift feature="voice" new="creak"/>Questa cosa non ti esce dalla mente anche se son passati 80 anni e io che adesso sa<pause/> son qui<pause/> perché ho <pause/> 
-                        mia figlia ho<pause/> i miei nipoti<pause/> ho<pause/> insomma<pause/> parenti amici ma ovviamente di sera sono qui da sola<pause/> 
+                        mia <rs type="person" ref="#RosB"></rs>figlia ho<pause/> i miei nipoti<pause/> ho<pause/> insomma<pause/> parenti amici ma ovviamente di sera sono qui da sola<pause/> 
                         <kinesic><desc>muove le mani per enfatizzare quello che sta dicendo</desc></kinesic><emph>e la mia mente è sempre ad <placeName ref="#Au">Auschwitz</placeName></emph>
-                        <pause/><kinesic><desc> scuote la testa in silenzio</desc></kinesic> <del type="falseStart">per cu</del> purtroppo ho perso una figlia<pause/> ho perso una nipotina<pause/> 
+                        <pause/><kinesic><desc> scuote la testa in silenzio</desc></kinesic> <del type="falseStart">per cu</del> purtroppo ho perso una <rs type="person" ref="#NB">figlia</rs><pause/> ho perso una <rs type="person" ref="#FB" >nipotina</rs><pause/> 
                         di malattia<pause/> e nonostante questo grande dolore familiare<pause/> <kinesic><desc>muove le mani per enfatizzare quello che sta dicendo</desc></kinesic>
                         la mia testa il mio ricordo è sempre lì<pause/> dove tanti hanno perso<pause/> la vita per una crudeltà infinita<pause/> 
+                    </seg>
+                    <seg>
                         Io stimo molto questa <persName ref="#AM">Angela <del type="truncation">Merk</del> Merkel</persName> che adesso va in pensione la Presidentessa perché devo dire
                         <incident><desc>sirene di ambulanza in sottofondo che vanno aumentando</desc></incident> che mi sembra una brava persona<pause/> però i tedeschi 
                         <kinesic><desc>scuotendo la testa e sorride amaramente</desc></kinesic> sono stati così cattivi<pause/> non solo i nazisti tutti<pause/> quella volta<pause/> 
@@ -1493,9 +1894,12 @@
                         che<pause/> io ho bisogno di sapere <del type="repetition">la</del>la ragione<pause/> per questo cambiamento perché io<pause/> non riesco a capire</q><pause/> e <persName ref="#mirella">lei</persName> 
                         m’ha detto <q type="spoken" who="#mirella" toWhom="#BAUER">guarda<pause/> dammi un po’ di tempo e poi te lo<pause/> dirò</q> e infatti<pause/> mi telefona<pause/> un giorno<pause/> e mi dice <pause/>
                         <q type="spoken" who="#mirella" toWhom="#BAUER">Sai io<pause/> non volevo lasciare <del type="repetition">o</del><pause/> <vocal><desc>si schiarisce la voce</desc></vocal> o perdere questa amicizia<pause/> 
-                        ma è stato mio padre<pause/> che ha detto tu adesso<pause/> la ragazza la tua amica ebrea non la devi più frequentare<pause/> e neanche sentirla</q><pause/> Il padre era un grande fascista era un maestro elementare
+                        ma è stato mio padre<pause/> che ha detto tu adesso<pause/> la ragazza la tua amica ebrea non la devi più frequentare<pause/> e neanche sentirla</q><pause/> 
+                    </seg> 
+                    <seg>   
+                        Il padre era un grande fascista era un maestro elementare
                         lì quella volta <del type="reformulation">erano div-</del> erano le scuole maschili o femminili<pause/> lui aveva<pause/> solo<pause/> classi maschili<pause/> era<pause/> conosciuto per un bravo insegnante ma anche
-                        per un grande facsista<pause/> e lui ha impedito alla <persName ref="#mirella">figlia</persName> di frequentare l’<persName ref="#BAUER">amica ebrea</persName> e questo l’ho saputo quando io<pause/> molto<pause/> 
+                        per un grande fascista<pause/> e lui ha impedito alla <persName ref="#mirella">figlia</persName> di frequentare l’<persName ref="#BAUER">amica ebrea</persName> e questo l’ho saputo quando io<pause/> molto<pause/> 
                         <del type="correction">dispiaciuto</del> <del type="truncation">e s-</del> dispiaciuta e senza darmene una ragione<pause/> non capivo questo<pause/> raffreddamento questo allontanamento<pause/> così lei me l’ha raccontato<pause/> 
                         dopo lei ad un certo punto dopo questo chiarimento<pause/> <del type="correction">mi ha fatto</del> ha voluto continuare a fare ma io non me la sentivo più<pause/> perchè avevo avuto un <emph>grande grande</emph> dispiacere
                     </seg>
@@ -1622,7 +2026,10 @@
                         <placeName ref="#Fiu">Fiume</placeName> <pause/>quella volta confinava <pause/>con la <placeName ref="#CR">Croazia</placeName><pause/> la città più vicina<pause/> bastava attraversare un ponte<pause/> si chiamava<pause/> 
                         <placeName ref="#Sk">Sussak</placeName><pause/> e c’è ancora questa <placeName ref="#Sk">Sussak</placeName> adesso è diventata<pause/><vocal><desc>ehm</desc></vocal> mi pare la capitale della <placeName ref="#CR">Croazia</placeName><pause/> 
                         o una città importante della <placeName ref="#CR">Croazia</placeName><pause/> e <vocal><desc>si schiarisce la voce</desc></vocal> quella volta invece<pause/> il governo fascista <del type="repetition">aveva</del><pause/> aveva occupato una parte 
-                        della <placeName ref="#CR">Croazia</placeName> e in quella zona c’erano tutti i militari<pause/> ragazzi giovani militari a presidiare quella zona<pause/> Questi ragazzi che<pause/> avevano fatto tutti studi<pause/> qualche volta solo la quinta elementare
+                        della <placeName ref="#CR">Croazia</placeName> e in quella zona c’erano tutti i militari<pause/> ragazzi giovani militari a presidiare quella zona<pause/> 
+                    </seg>
+                    <seg>
+                        Questi ragazzi che<pause/> avevano fatto tutti studi<pause/> qualche volta solo la quinta elementare
                         qualche volta<pause/> <vocal><desc>ehm</desc></vocal>non so <choice><sic>le</sic><corr>i</corr></choice> primi due anni delle medie volevano avere un titolo di studio <del type="correction">pr</del> superiore<pause/> qualche soldo lo ricevevano da casa<pause/> 
                         qualche cosa gli davano anche come militari<pause/> e loro volevano studiare per dare gli esami<pause/>Allora <pause/>avevano avuto il mio nome come il nome di qualche altro studente come me<pause/> e venivano a studiare da me ma loro erano liberi solo la sera
                         <pause/> allora io<pause/> fino a mezzanotte<pause/> loro arrivavano dopo le 8.00 fino alle<pause/> non guardavo un’ora due ore<pause/> finché avevano imparato quella lezione<pause/> e loro poi avevano superato tutti gli esami<pause/> 
@@ -1676,8 +2083,11 @@
                         loro continuavano a dire su richiesta <q type="spoken">ahh in <placeName ref="#DE">Germania</placeName> finirete in qualche fabbrica a lavorare</q><pause/> Invece <incident><desc>suono indistinto in sottofondo</desc></incident> dopo<pause/> quasi <pause/>una 
                         settimana di viaggio siamo arrivati ad <placeName ref="#Au">Auschwitz</placeName><pause/> che noi non sapevamo neanche che <emph>esistesse</emph> <placeName ref="#Au">Auschwitz</placeName> che si chiamasse<pause/> così non sapevamo niente dopodiché io non 
                         ho più visto <emph>nessuno</emph><pause/> perché i miei li hanno subito portati<pause/> al gas<pause/> e soltanto io <pause/>e <persName ref="#TH">mio fratello</persName> che aveva due anni meno di me<pause/> <vocal><desc>ehm</desc></vocal> siamo stati<pause/> 
-                        condotti nel campo per lavorare<pause/> Dopodiché io <persName ref="#TH">mio fratello</persName> <kinesic><desc>scuotendo la testa</desc></kinesic>non l’ho mai più rivisto poi dopo ho saputo dal <orgName ref="#CDEC">Centro di Documentazione</orgName> 
-                        che hanno delle informazioni ma già molti anni fa<pause/> che <persName ref="#TH">lui</persName> è morto dopo la <eventName ref="#liberazione">Liberazione</eventName><pause/> perché il <date when="1945-05-02">primo maggio</date> noi volevamo andare in 
+                        condotti nel campo per lavorare<pause/> 
+                    </seg>
+                    <seg>    
+                        Dopodiché io <persName ref="#TH">mio fratello</persName> <kinesic><desc>scuotendo la testa</desc></kinesic>non l’ho mai più rivisto poi dopo ho saputo dal <orgName ref="#CDEC">Centro di Documentazione</orgName> 
+                        che hanno delle informazioni ma già molti anni fa<pause/> che <persName ref="#TH">lui</persName> è morto dopo la Liberazione<pause/> perché il <date when="1945-05-02">primo maggio</date> noi volevamo andare in 
                         <placeName ref="#CH">Svizzera</placeName> <del type="repetition">il</del> il <date when="1945-05-02">2</date> ci hanno arrestato<pause/> <del type="repetitiom">e poi</del> e poi<pause/> siamo stati a <placeName ref="#SV">San Vittore</placeName> 
                         fino a quando è stato creato un nuovo convoglio <gap reason="inaudible" extent="1 word"/><pause/>ci hanno portato alla stazione e ci hanno caricato sul treno<pause/> sui vagoni <choice><sic>bestiami</sic><corr>bestiame</corr></choice> 
                         come avrà letto <del type="repetition">in tante</del><pause/> in tante <vocal><desc>ehm</desc></vocal> testimonianze
@@ -1849,7 +2259,7 @@
 
                 <u who="#BAUER" xml:id="gb26" synch="#tlp51">
                     <seg>
-                        <shift feature="voice" new="creak"/>un percorso a piedi da lì dove c’era la <foreign xml:lang="DE">Judenram<anchor synch="#tls20"/>pe<anchor synch="#tls21"/></foreign> 
+                        <shift feature="voice" new="creak"/>un percorso a piedi da lì dove c’era la <placeName ref="#Judenrampe"><foreign xml:lang="DE">Judenram<anchor synch="#tls20"/>pe<anchor synch="#tls21"/></foreign></placeName> 
                     </seg>
                 </u>
 
@@ -1903,7 +2313,7 @@
 
             </div>
 
-            <!--La separazione sulla Bahnrampe-->
+            <!--La separazione sulla Bahnrampe - Parole atroci di verità-->
             <div>
                 <u who="#BAUER" xml:id="gb31" synch="#tlp60">
                     <seg>
@@ -1971,12 +2381,15 @@
             <div>
                 <u who="#BAUER" xml:id="gb35" synch="#tlp67">
                     <seg>
-                        Io sono entrata <shift feature="voice" new="breath"/><del type="repetition">al<pause/></del><del type="correction">a</del> <shift feature="voice" new="creak"/>al lager A<pc resp="#DT">,</pc> alla 
-                        baracca 31<pause/><pc resp="#DT">,</pc><del type="repetition">dove erano</del> <pause/><vocal><desc>si schiarisce la voce</desc></vocal> dove erano portati tutti 
+                        Io sono entrata <shift feature="voice" new="breath"/><del type="repetition">al<pause/></del><del type="correction">a</del> <shift feature="voice" new="creak"/>al <placeName>lager A</placeName><pc resp="#DT">,</pc> alla 
+                        <placeName>baracca 31</placeName><pause/><pc resp="#DT">,</pc><del type="repetition">dove erano</del> <pause/><vocal><desc>si schiarisce la voce</desc></vocal> dove erano portati tutti 
                         quelli appena arrivati<pc resp="#DT">,</pc> perché poi via via<pause/> li siccome queste baracche contenevano al massimo 1000 persone<pc resp="#DT">,</pc> quando erano 
                         <del type="correction">pen</del> piene<pc resp="#DT">,</pc> <del type="repetition">a un certo punto</del> <vocal><desc>si schiarisce la voce</desc></vocal> a un certo punto alcuni 
                         li mandavano da un'altra parte<pc resp="#DT">,</pc> in altre baracche e<pc resp="#DT">,</pc> quei nuovi arrivati <pc resp="#DT">-</pc> perché via via arrivavano in treno <pc resp="#DT">-</pc> 
-                        <vocal><desc>ehm</desc></vocal> li mettevano lì<pc resp="#DT">.</pc> Era praticamente la baracca dell’accoglienza<pc resp="#DT">.</pc> E dopo via via appunto<pc resp="#DT">,</pc> 
+                        <vocal><desc>ehm</desc></vocal> li mettevano lì<pc resp="#DT">.</pc> 
+                    </seg>    
+                    <seg>    
+                        Era praticamente la baracca dell’accoglienza<pc resp="#DT">.</pc> E dopo via via appunto<pc resp="#DT">,</pc> 
                         immettevano<pc resp="#DT">,</pc><shift feature="voice" new="trem"/> ma lì eravamo <kinesic><desc>scuote la testa</desc></kinesic><emph>completamente frastornate</emph><pc resp="#DT">,</pc> 
                         non si capiva più niente<pc resp="#DT">.</pc> 
                     </seg>
@@ -2150,7 +2563,9 @@
                         hanno accompagnato fino a questo 31 che era la baracca numero 31<pause/>del lager A<pc resp="#DT">,</pc> che era il Lager della Quarantena<pc resp="#DT">,</pc> 
                         perché la Quarantena era il periodo<pause/> che si stava lì<pause/> senza far niente perché<pause/> solo dopo si veniva portati a lavoro<pc resp="#DT">.</pc> 
                         Perché loro temevano<pause/> che si portasse in incubazione qualche malattia che potesse esplodere<pc resp="#DT">,</pc> e allora non volevano in qualche modo 
-                        contagiare tutti<pc resp="#DT">,</pc><pause/> e ci lasciavano lì per un periodo appunto in questo Lager A<pc resp="#DT">,</pc> nel mio caso nella baracca 31<pc resp="#DT">.</pc> 
+                        contagiare tutti<pc resp="#DT">,</pc><pause/> e ci lasciavano lì per un periodo appunto in questo Lager A<pc resp="#DT">,</pc> nel mio caso nella baracca 31<pc resp="#DT">.</pc>
+                    </seg>
+                    <seg> 
                         E lì ho conosciuto un sacco di gente con cui ho avuto la fortuna di parlare<pc resp="#DT">,</pc> perché queste lingue che le ho detto le parlavo<pc resp="#DT">,</pc> e il 
                         francese l’avevo studiato per cui mi arrangiavo anche col francese<pc resp="#DT">.</pc>
                     </seg>
@@ -2320,7 +2735,7 @@
             </div>
 
             <!-- Storia di un matrimonio -->
-             <div>
+            <div>
                 <u who="#MR" xml:id="mr26" synch="#tlp92">
                     <seg>
                         Nel <date when="1945-07">luglio del 45</date> lei arriva a <placeName ref="#Fiu">Fiume</placeName>
@@ -2404,19 +2819,20 @@
                     <seg>
                         da loro<pc resp="#DT">.</pc><pause/>
                     </seg>
-
                     <seg>
                         <shift feature="voice" new="trem"/>Un giorno<pause/> è venuta da questa <rs type="group" ref="#Reiss">famiglia</rs> dove stavo io<pause/> <del type="repetition">una</del> una coppia<pc resp="#DT">,</pc> 
                         <rs type="person" ref="#LB">marito</rs> e <rs type="person" ref="ZW">moglie</rs><pause/> <vocal><desc>ehm</desc></vocal><pause/> amici loro che portavano<pause/> da <rs type="group" ref="#Reiss">loro</rs>      
                         <del type="repetition">a <del type="truncation">fa-</del></del> a farli salutare dal loro <rs type="person" ref="#RB">figlio</rs> che viveva in <placeName ref="#AF">Africa</placeName> e che<pause/> 
-                        era venuto a trovare questi genitori dopo la guerra<pc resp="#DT">.</pc><pause/> E così ho conosciuto questo<pause/> questo <rs type="person" ref="#RB">amico</rs><pc resp="#DT">,</pc> questo<pause/> 
+                        era venuto a trovare questi genitori dopo la guerra<pc resp="#DT">.</pc><pause/> 
+                    </seg>
+                    <seg>
+                        E così ho conosciuto questo<pause/> questo <rs type="person" ref="#RB">amico</rs><pc resp="#DT">,</pc> questo<pause/> 
                         <rs type="person" ref="#RB">figlio</rs><pc resp="#DT">,</pc> <del type="repetition">e</del> e <rs type="person" ref="#RB">lui</rs> che viveva ad <placeName ref="#As">Asmara</placeName> in 
-                        <placeName ref="#ER">Eritrea</placeName><pc resp="#DT">,</pc> sa<pc resp="#DT">,</pc><pause/> e lavorava lì e ha detto che loro in <placeName ref="#AF">Africa</placeName> sapevano poco della <eventName ref="#Shoah">Shoah</eventName> 
+                        <placeName ref="#ER">Eritrea</placeName><pc resp="#DT">,</pc> sa<pc resp="#DT">,</pc><pause/> e lavorava lì e ha detto che loro in <placeName ref="#AF">Africa</placeName> sapevano poco della Shoah
                         <pause/>e che avrebbe avuto tanto piacere <incident><desc>rumori sordi in sottofondo</desc></incident> che io gli raccontassi la mia esperienza<pc resp="#DT">,</pc> quello che si è vissuto lì
                         <pc resp="#DT">,</pc> cos’era successo<pc resp="#DT">...</pc><pause/> E allora siamo usciti un paio di volte nel pomeriggio <incident><desc>suono clacson</desc></incident><pause/> a sederci in 
                         un caffè<pc resp="#DT">,</pc> in un bar <del type="falseStart">per</del> e io raccontavo<pc resp="#DT">.</pc><pause/> 
                     </seg>
-
                     <seg>
                         <vocal><desc>Ehhhh</desc></vocal>e alla fine <incident><desc>sirena ambulanza per 24 secondi</desc></incident> <rs type="person" ref="#RB">lui</rs> alla fine di questi giorni di conversazione 
                         <rs type="person" ref="#RB">lui</rs> mi ha detto 
@@ -2430,9 +2846,418 @@
                         E così ci siamo sposati <del type="reformulation">ed è stato un<pc resp="#DT">...</pc></del><pause/> io ho avuto la grande fortuna di avere un matrimonio<pc resp="#DT">,</pc> un marito meravigliosi<pc resp="#DT">.</pc>
                     </seg>
                 </u>
-             </div>
+            </div>
 
+            <!--Il tatuaggio-->
+            <div>
+                <u who="#BAUER" xml:id="gb58" synch="#tlp105">
+                    <seg>
+                        <vocal><desc>Ehhh</desc></vocal><pc resp="#DT">..</pc>a un certo punto<pc resp="#DT">,</pc> <vocal><desc>si schiarisce la voce</desc></vocal> quando io mi sono sposata mio <rs type="person" ref="#RB">marito</rs> ha detto 
+                        <pc type="quotation" resp="#DT">“</pc><q type="spoken" who="#RB" toWhom="#BAUER">questo te lo devi levare<pc resp="#DT">,</pc> perché così non lo vedi ogni momento</q><pc type="quotation" resp="#DT">”</pc>
+                        <pause/><pc resp="#DT">,</pc> credendo che non vederlo avrebbe potuto ridurre <del type="falseStart">la mia</del><pause/> il <anchor synch="#tls40"/>mio dolore<anchor synch="#tls41"/>
+                    </seg>
+                </u>
 
+                <u who="#MR" xml:id="mr32" synch="#tlp106"> 
+                    <seg>        
+                        <anchor synch="#tls40"/>il dolore<anchor synch="#tls41"/> 
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb59" synch="#tlp107">
+                    <seg>
+                        <del type="falseStart">la mia</del><pause/> il mio ricordo <shift feature="voice" new="giggle"/>eccetera<pc resp="#DT">,</pc><kinesic><desc>scuote la testa</desc></kinesic>invece no <pause/>invece no<pc resp="#DT">,</pc> 
+                        è stato tolto<pc resp="#DT">,</pc> è stato un peccato <choice><sic>averlo</sic><corr>doverlo</corr></choice> togliere<pc resp="#DT">.</pc> 
+                        <shift feature="voice" new="trem"/>Però è <kinesic><desc>porta la mano alla testa</desc></kinesic>nella mia testa<pause/> e non è<pause/> più sul braccio ma<pause/> <num type="campRegistration">A5372</num> è proprio<pause/> 
+                        nell’anima<pc resp="#DT">,</pc> perché rappresenta appunto<pc resp="#DT">,</pc> tutta la tragedia
+                    </seg>
+                </u>
+            </div>
+
+            <!--Come raccontare la Shoah nelle scuole? -->
+            <!--Amicizia con Daniela Padoan-->
+            <!--Suggerimenti-->
+            <!--L'amicizia con Elena Zennaro-->
+            <div>
+                <u who="#BAUER" xml:id="gb60" synch="#tlp108"> 
+                    <seg>
+                        Credo<pc resp="#DT">,</pc><pause/> che una delle cose da suggerire possa essere <emph>leggere qualche cosa<pause/> in cui chi l’ha vissuto l’ha descritto</emph><pc resp="#DT">,</pc><pause/> sa<pc type="interrogative" resp="#DT">?</pc> 
+                        Per esempio <persName ref="#SEGRE">Liliana</persName> ha scritto qualche libro<pc resp="#DT">,</pc><pause/> <vocal><desc>ehhh</desc></vocal><pause/>anche <persName ref="#NF">Nedo</persName> ha scritto qualche libro<pc resp="#DT">,</pc> 
+                        <pause/><del type="falseStart">anch’io compaio in</del> io <del type="repetition">non non non</del>non li ho firmati <del type="reformulation">i miei li-bri perché</del> <del type="truncation">i mie </del><vocal><desc>ehm</desc></vocal>
+                        <shift feature="voice" new="giggle"/>cioè i testi ma <shift feature="voice" new="normal"/>semplicemente perché è stata una carissima <rs type="person" ref="#DP">amica</rs><pc resp="#DT">,</pc> una certa <persName ref="#DP">Daniela Padoan</persName> 
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr33" synch="#tlp109">
+                    <seg>
+                        <vocal><desc>mh mh</desc></vocal>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb61" synch="#tlp110"> <!--Amicizia con Daniela Padoan-->
+                    <seg>
+                        <del type="falseStart">che ha</del> tra l’altro è una <rs type="person" ref="#DP">scrittrice</rs><pc resp="#DT">,</pc> che <del type="repetition">ha</del> ha chiesto a noi tre di testimoniare e poi ha scritto un libro<pause/> 
+                        <vocal><desc>ehm</desc></vocal><pause/> in cui racconta <vocal><desc>mmm</desc></vocal> soprattutto <pause/><vocal><desc>ehm</desc></vocal><vocal><desc>si schiarisce la voce</desc></vocal> <del type="truncation">altr</del> 
+                        oltre alla storia<pause/> ma<pause/><camera>l'inquadratura si allarga</camera> <incident><desc>tonfi sordi in sottofondo</desc></incident>tutte le riflessioni che abbiamo fatto insieme <vocal><desc>ehm</desc></vocal> 
+                        <vocal><desc>si schiarisce la voce</desc></vocal><pause/> non so<pc resp="#DT">,</pc><pause/> l’occasione in cui ci siamo incontrati<pc resp="#DT">.</pc>
+                    </seg>
+                    <seg>
+                        Io in generale son rimasta in grande amicizia con tutti<pc resp="#DT">,</pc> per cui <persName ref="#DP">Daniela</persName> la vedo spesso<pc resp="#DT">,</pc> mi sarebbe piaciuto anche sapere perché 
+                        <rs type="person" ref="#DP">lei</rs> lavora così all’ultimo momento <del type="repetition">non</del> non ho potuto telefonarle<pc resp="#DT">,</pc> ma forse sarebbe venuta volentieri<pc resp="#DT">.</pc><pause/> 
+                        <vocal><desc>Ehhh</desc></vocal> alcune di queste che hanno sentito <persName ref="#SEGRE">Liliana</persName><pc resp="#DT">,</pc> me vanno anche loro a <choice><sic>testomoniare</sic><corr>testimoniare</corr></choice> 
+                        perché ovviamente sarà<pause/> la storia del futuro
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr34" synch="#tlp111">
+                    <seg>
+                        <shift feature="loud" new="p"/>eh certo
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb62" synch="#tlp112">
+                    <seg> 
+                        che noi siamo tutti molto anziani<pause/> <vocal><desc>ehhh</desc></vocal>e allora <vocal><desc>mhh</desc></vocal> praticamente<pause/>poi non so se rimarrà ancora voglia<pause/> a qualcuno 
+                        <incident><desc>suoni clacson </desc></incident>di <camera>zoom in</camera>avvicinarsi a questa tragedia<pc resp="#DT">,</pc> perché di tragedie<pause/> ne succedono in continuazione<pause/> 
+                        <vocal><desc>ehh</desc></vocal> di <emph>queste</emph> dimensioni forse no<pc resp="#DT">,</pc> ma cose drammaticissime succedono anche adesso<pc resp="#DT">.</pc><pause/>
+                    </seg>
+                    <seg> <!--Suggerimenti -->
+                        Comunque le dico io <emph>stranamente</emph> in vari libri in cui non pensavo <emph>minimamente</emph> di incontrare qualcosa<pc resp="#DT">,</pc> non questi<pc resp="#DT">,</pc> ma 
+                        per esempio <kinesic><desc>cerca di prendere un libro sul tavolo, ma il libro le cade</desc></kinesic>l’ultimo che<pause/> mi è capitato <incident><desc>rumore di libro caduto</desc></incident> 
+                        in mano ed è anche molto recente<pc resp="#DT">,</pc><pause type="medium" dur="PT2S"/><kinesic><desc>si abbassa per raccoglierlo da terra</desc></kinesic><incident><desc>suono clacson</desc></incident> 
+                        me l’ha dato proprio<pause/> l’<rs type="person" ref="#eGuida">autrice</rs> <kinesic><desc>mostra il libro di cui parla</desc></kinesic><pc resp="#DT">.</pc><pause/> E anche questo a un certo punto parla di 
+                        <placeName ref="#Au">Auschwitz</placeName> <del type="falseStart">e e di</del><pc type="cit" resp="#DT">“</pc><bibl ref="#stradadicasa">La strada di casa</bibl><pc type="cit" resp="#DT">”</pc><pc resp="#DT">.</pc>
+                    </seg>
+                    <seg>     
+                        Uno non penserebbe<pc resp="#DT">,</pc> questa <vocal><desc>mhhh</desc></vocal>è una <rs type="person" ref="#eGuida">donna giovane</rs><pc resp="#DT">,</pc> per cui <del type="falseStart">non è</del> 
+                        non ha un’esperienza personale o di famiglia<pc resp="#DT">,</pc><pause/> a un certo punto ha scritto un libro <pc type="cit" resp="#DT">“</pc><bibl ref="#stradadicasa"><del type="correction">In Italia</del>
+                        Il ritorno in Italia dei sopravvissuti</bibl><pc type="cit" resp="#DT">”</pc> è una cosa recentissima<pc resp="#DT">.</pc><pause/> 
+                    </seg>    
+                    <seg>
+                        <vocal><desc>Ehhh</desc></vocal>per dire che c’è ancora sì<pause/> certo<pc resp="#DT">,</pc> chi si interessa della cosa<pc resp="#DT">,</pc><camera>zoom out</camera> <vocal><desc>ehhh</desc></vocal>
+                        soprattutto nelle scuole<pc resp="#DT">,</pc> e soprattutto<pc resp="#DT">,</pc><pause/> io l’ho poi detto agli insegnanti che <del type="correction">viv</del> via via mi chiamavano <pause/>
+                        <pc type="quotation" resp="#DT">“</pc><quote>guardate vengo <emph>solo</emph><pause/> se voi fate una preparazione a questo incontro<pc resp="#DT">,</pc> perché sennò non serve a nulla<pc resp="#DT">,</pc>
+                        anzi<pc resp="#DT">,</pc> è controproducente</quote><pc type="cit" resp="#DT">”</pc><pc resp="#DT">.</pc><pause/> 
+                    </seg> 
+                    <seg>   
+                        E infatti era così<pc resp="#DT">:</pc> se i ragazzi avevano letto 
+                        qualcosa<pc resp="#DT">,</pc> avevano<pause/> studiato qualche cosa sulla deportazione<pc resp="#DT">,</pc> allora il racconto di uno che l’ha vissuto gli interessava<pc resp="#DT">,</pc> altrimenti era 
+                        una noia per loro<pc resp="#DT">.</pc><pause/> Per cui <del type="correction">i</del> gli insegnanti l’hanno capito e devo dire che io <del type="repetition">ho avuto</del> <vocal><desc>mh</desc></vocal> 
+                        ho avuto molto spesso<pause/> <del type="repetition">un</del> un grande conforto da come venivo <del type="correction">ascoltato dal</del> ascoltata<pc resp="#DT">,</pc> dalle domande che 
+                        facevano<pc resp="#DT">,</pc><pause/> dalle telefonate che facevano perché volevano parlare ancora con me<pause/><vocal><desc>ehhh</desc></vocal> insomma varie cose e <del type="falseStart">io ho ancora</del><pause/>
+                        pensi che l’altro giorno <vocal><desc>si schiarisce la voce</desc></vocal> avevo qui<pause/> delle amiche<pc resp="#DT">.</pc> 
+                    </seg>
+                    <seg> <!--L’amicizia con Elena Zennaro-->
+                        Una di loro è venuta da <placeName ref="#Ven">Venezia</placeName><pc resp="#DT">,</pc> si chiama <persName ref="#EZ">Elena Zennaro</persName><pc resp="#DT">,</pc> era una <rs type="person" ref="#EZ">professoressa</rs> 
+                        di un liceo scientifico di <placeName ref="#Mi">Milano</placeName><pc resp="#DT">,</pc> adesso è in pensione<pc resp="#DT">.</pc><pause/><vocal><desc>Ehhh</desc></vocal> e <rs type="person" ref="#EZ">lei</rs> 
+                        m’aveva incontrato perché m'aveva invitato come tanti altri a parlare nelle scuole<pc resp="#DT">.</pc> E siamo rimaste amiche<pc resp="#DT">,</pc> come con tante io sono rimasta amica professoresse<pc resp="#DT">,</pc> 
+                        e ancora adesso ci sentiamo<pc resp="#DT">,</pc> ci chiamiamo<pc resp="#DT">,</pc> perché<pause/> <shift feature="voice" new="giggle"/>è nata un'amicizia oltre che un incontro diciamo così solo 
+                        <del type="repetition">di</del><pause/>di interesse per l’argomento<pc resp="#DT">.</pc>
+                    </seg>
+                </u>
+            </div>
+
+            <!--Goti racconta il suo incontro con Liliana-->
+            <div>
+                <u who="#BAUER" xml:id="gb63" synch="#tlp113">
+                    <seg>
+                        Per esempio<pc resp="#DT">,</pc> <persName ref="#SEGRE">Liliana</persName><pc resp="#DT">,</pc> io non <rs type="person" ref="#SEGRE">l</rs>’ho mai conosciuta<pc resp="#DT">,</pc> non 
+                        <rs type="person" ref="#SEGRE">l</rs>’ho mai vista lì ad <placeName ref="#Au">Auschwitz</placeName><pc resp="#DT">.</pc><pause/> 
+                        è arrivata in un momento diverso dal mio<pc resp="#DT">,</pc><pause/> aveva un’età diversa dalla mia<pc resp="#DT">...</pc><pause/>no noi ci siamo conosciute non so una decina 
+                        d'anni fa o quindici anni fa qui a <placeName ref="#Mi">Milano</placeName><pc resp="#DT">.</pc>
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr35" synch="#tlp114">
+                    <seg>
+                        Quando <del type="correction">siamo andate a</del><pause/>siamo andati a incontrare <persName ref="#SEGRE">Liliana Segre</persName><pc resp="#DT">,</pc><vocal><desc>ehhh</desc></vocal> 
+                        <persName ref="#SEGRE">Liliana</persName> ha detto <pc type="quotation" resp="#DT">“</pc><q type="spoken" who="#SEGRE" toWhom="#MR">per me <pause/><persName ref="#BAUER">Goti</persName>
+                        <pause/> è come <pause/><persName ref="#VIRG">Virgilio</persName> per <persName ref="#Da">Dante</persName></q><pc type="quotation" resp="#DT">”</pc>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb64" synch="#tlp115">
+                    <seg>
+                        <shift feature="voice" new="laugh"/>Addirittura<pc type="exclamation" resp="#DT">!</pc>
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr36" synch="#tlp116">
+                    <seg>
+                        e ha <vocal><desc>ehh</desc></vocal> iniziato il racconto di come<pause/> e di quando abbia<pc resp="#DT">,</pc><pause/> <rs type="person" ref="#SEGRE">lei</rs> stessa<pc resp="#DT">,</pc> 
+                        iniziato a testimoniare<pause/> e ci ha raccontato l’incontro con <persName ref="#BAUER">Goti Bauer</persName><pause/><vocal><desc>ehm</desc></vocal> 
+                        ci far<anchor synch="#tls42"/>ebbe<anchor synch="#tls43"/>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb65" synch="#tlp117">
+                    <seg>
+                        <anchor synch="#tls42"/>Me lo<anchor synch="#tls43"/> ricordo perché <rs type="person" ref="#SEGRE">lei</rs> per la verità era restia<pause/>e son stata io a convincer<rs type="person" ref="#SEGRE">la</rs>
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr37" synch="#tlp118">
+                    <seg>
+                        Ce la raccon<anchor synch="#tls44"/>ta<pc type="interrogative" resp="#DT">?</pc><anchor synch="#tls45"/> 
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb66" synch="#tlp119">
+                    <seg>
+                        <anchor synch="#tls44"/>eh<anchor synch="#tls45"/> sì que<anchor synch="#tls46"/>sto<anchor synch="#tls47"/>
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr38" synch="#tlp120">
+                    <seg>
+                        <anchor synch="#tls46"/>L’incon<anchor synch="#tls47"/>tro con <persName ref="#SEGRE">Liliana</persName> e il modo in cui l’ha convinta<pause/> a testimoniare
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb67" synch="#tlp121">
+                    <seg>
+                        adesso dovrei ripensare bene a quello che ho detto<pc resp="#DT">,</pc> adesso <emph>esattamente</emph> non mi ricordo<pc resp="#DT">..</pc>mi ricordo che<pc resp="#DT">,</pc> 
+                        <pause/>mentre<pause/> i testimoni<pause/> che c’erano<pause/> erano <persName ref="#NF">Nedo Fiano</persName><pc resp="#DT">,</pc> io e ancora una terza persona che però aveva 
+                        parlato poco<pause/> e poi forse era anche partita<pc resp="#DT">.</pc><pause/> E io<pause/> ho pensato che c’era <persName ref="#SEGRE">Liliana</persName> che era però parecchio 
+                        più giovane e che non aveva ancora iniziato a parlarmi<pc resp="#DT">.</pc><pause/>
+                    </seg>
+                    <seg>
+                        <vocal><desc>ehh</desc></vocal> io <rs type="person" ref="#SEGRE">la</rs> conoscevo ma da poco 
+                        tempo<pause/> e allora un giorno<pc resp="#DT">,</pc><pause/> ci siamo<pause/> incontrate in casa <del type="correction">da un</del>di un’<rs type="person" ref="#GSP">amica</rs> comune<pause/> 
+                        e a un certo punto <vocal><desc>ehm</desc></vocal><pause/>le ho detto<pause/> <pc type="quotation" resp="#DT">“</pc><q type="spoken" who="#BAUER" toWhom="#SEGRE">guarda<pc resp="#DT">,</pc> 
+                        ti voglio dire una cosa</q><pc type="quotation" resp="#DT">”</pc> perché <rs type="person" ref="#SEGRE">lei</rs> ascoltava me e approvava quello che dicevo<pc resp="#DT">,</pc> 
+                        ma nello stesso tempo <rs type="person" ref="#SEGRE">lei</rs> non parlava<pc resp="#DT">.</pc><pause/> E allora io le ho detto che anche per me era stato difficile all'inizio ma lo 
+                        ritenevo un dovere<pc resp="#DT">,</pc><pause/> perché questo dovere <vocal><desc>ehm</desc></vocal> era tale per cui nessuno ci poteva sostituire<pc resp="#DT">,</pc> perché eravamo 
+                        tra i <emph>pochissimi</emph> che questa storia <del type="correction">la potevo</del> la potevano raccontare<pc resp="#DT">.</pc> 
+                    </seg>
+                    <seg>    
+                        E allora a furia di parlarle 
+                        <rs type="person" ref="#SEGRE">lei</rs> ci ha pensato e ha accettato<pc resp="#DT">.</pc><pause/> Poi ha cominciato a parlare ma come<pc resp="#DT">,</pc> spesso succede<pc resp="#DT">,</pc> 
+                        che l’allievo diventa migliore del <shift feature="voice" new="laugh"/>maestro allora è andata così<pc resp="#DT">,</pc> <shift feature="voice" new="normal"/>che ovviamente abbiamo gli stessi ricordi ma molto 
+                        diversi<pc resp="#DT">,</pc> <rs type="person" ref="#SEGRE">lei</rs> era molto più giovane di me<pc resp="#DT">,</pc> ha avuto<pause/> una situazione diversa dalla mia<pause/> lì e 
+                        allora <del type="reformulation">ha delle cose</del> abbiamo delle cose <del type="repetition">in comune</del> in comune da raccontare<pc resp="#DT">,</pc> ma altre che sono<pause/> 
+                        molto specifiche<pc resp="#DT">,</pc> molto individuali<pause/>e infatti <rs type="person" ref="#SEGRE">lei</rs> è diventata bravissima e negli anni<pc resp="#DT">,</pc> 
+                        ovviamente<pc resp="#DT">,</pc> si è abituata a parlare e ogni volta che parla le viene fuori <emph>ancora meglio</emph> tutto quello che ha da dire
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr39" synch="#tlp122">
+                    <seg>
+                        Se la ricorda questa <rs type="person" ref="#GSP">amica</rs> comune<pc type="interrogative" resp="#DT">?</pc>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb68" synch="#tlp123">
+                    <seg>
+                        Eravamo <del type="falseStart">in</del> sai da chi<pc type="interrogative" resp="#DT">?</pc><pause/> da quella <rs type="person" ref="#GSP">signora</rs> <shift feature="voice" new="giggle"/>
+                        dell'<orgName ref="#ADEI">ADEI</orgName> sul momento stavo già pensando prima <shift feature="voice" new="normal"/><vocal><desc>ehm</desc></vocal><pause/><rs type="person" ref="#GSP">quella</rs> 
+                        che non ha figli ma ha delle nipoti
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr40" synch="#tlp124"> <!--chi sta parlando qui???-->
+                    <seg>
+                        <vocal><desc>ah</desc></vocal> dalla<anchor synch="#tls48"/><vocal><desc>mhhh</desc></vocal><anchor synch="#tls49"/>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb69" synch="#tlp125">
+                    <seg>
+                        <anchor synch="#tls48"/>dalla<pc type="interrogative" resp="#DT">?</pc><anchor synch="#tls49"/> lo sa <anchor synch="#tls50"/>chi<pc type="interrogative" resp="#DT">?</pc><anchor synch="#tls51"/>
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr41" synch="#tlp126"> <!--chi sta parlando qui???-->
+                    <seg>
+                        <anchor synch="#tls50"/><persName ref="#GSP">Gianna<anchor synch="#tls51"/> Pavia</persName>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb70" synch="#tlp127">
+                    <seg>
+                        dalla <persName ref="#GSP">Gianna Pavia</persName><pc resp="#DT">,</pc> in casa di <persName ref="#GSP">Gianna Pavia</persName><pc resp="#DT">,</pc> che era un’<rs type="person" ref="#GSP">amica</rs> comune e era 
+                        un’<rs type="person" ref="#GSP">amica</rs> mia<pc resp="#DT">,</pc><pause/> <vocal><desc>ehm</desc></vocal> si lavorava insieme all’<orgName ref="#ADEI">ADEI</orgName><pc resp="#DT">,</pc> 
+                        l’<orgName ref="#ADEI">ADEI</orgName> è un’associazione femminile
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr42" synch="#tlp128"><!--chi sta parlando qui???-->
+                    <seg>
+                        donne ebree femminili
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb71" synch="#tlp129">
+                    <seg>
+                        delle donne ebree<pc resp="#DT">,</pc><pause/> qui a <placeName ref="#Mi">Milano</placeName><pc resp="#DT">,</pc> ma c’è in giro anche in altre città<pc resp="#DT">.</pc><pause/> 
+                        <vocal><desc>Ehm</desc></vocal><pause/> e allora appunto mi era venuta in mente questo e un giorno<pc resp="#DT">,</pc> in casa di questa <persName ref="#GSP">Gianna Pavia</persName><pc resp="#DT">,</pc> 
+                        io ho invitato anche <persName ref="#SEGRE">Liliana</persName><pause/> e lì io le ho spiegato<pc resp="#DT">,</pc> e <rs type="person" ref="#SEGRE">lei</rs> ha capito<pause/> e<pc resp="#DT">,</pc> 
+                        all’inizio<pc resp="#DT">,</pc> con un po’ di<pause/> timore<pc resp="#DT">,</pc> con un po’ d’incertezza<pc resp="#DT">,</pc> ma poi sa<pc resp="#DT">,</pc> è diventata molto molto in gamba<pause/> 
+                        <vocal><desc>ehh</desc></vocal> e sono molto contenta perché <rs type="person" ref="#SEGRE">lei</rs> davvero ha ancora molta energia e può parlare<pause/> a lungo e raccontare a gente che non lo 
+                        sa<pc resp="#DT">,</pc><pause/> ecco<pc resp="#DT">.</pc>
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr43" synch="#tlp130">
+                    <seg>
+                        <persName ref="#SEGRE">Liliana</persName> ci ha detto<pause/> che l’ha conosciuta<pc resp="#DT">,</pc> che ha conosciuto <emph>lei</emph><pc resp="#DT">,</pc><pause/> <vocal><desc>ehm</desc></vocal>
+                        a cui riconosce<pc resp="#DT">,</pc> l’ha ripetuto molte volte<pc resp="#DT">,</pc> il titolo di <persName ref="#VIRG">Virgilio</persName><pc resp="#DT">,</pc> <vocal><desc>ehhh ehm</desc></vocal> 
+                        attraverso <persName ref="#GD">Giuliana Donati</persName><pc resp="#DT">.</pc> È vero<pc type="interrogative" resp="#DT">?</pc>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb72" synch="#tlp131">
+                    <seg>
+                        Noi avevamo <persName ref="#GD">Giuliana Donati</persName> <del type="reformulation">come un uni</del> come amica comune ma noi due non ci conosceva<anchor synch="#tls52"/>mo<anchor synch="#tls53"/>
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr44" synch="#tlp132">
+                    <seg>
+                        <anchor synch="#tls52"/>voi<anchor synch="#tls53"/> non vi cono<anchor synch="#tls54"/>scevate<anchor synch="#tls55"/>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb73" synch="#tlp133">
+                    <seg>
+                        <anchor synch="#tls54"/><gap reason="inaudible" extent="1 words"/><anchor synch="#tls55"/>assolutamente
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr45" synch="#tlp134">
+                    <seg>
+                        e quindi <del type="reformulation">vi sie-</del> <emph>voi due</emph> vi siete conosciute attraverso <persName ref="#GD">Giuliana Donati</persName> 
+                        <anchor synch="#tls56"/>al <gap reason="inaudible" extent="1 words"/><anchor synch="#tls57"/>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb74" synch="#tlp135">
+                    <seg>
+                        <anchor synch="#tls56"/><persName ref="#GD">Giuliana<anchor synch="#tls57"/>Donati</persName> io l’avevo <choice><sic>conosciuto</sic><corr>conosciuta</corr></choice> 
+                        <anchor synch="#tls58"/>prima<anchor synch="#tls59"/> 
+
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr46" synch="#tlp136">
+                    <seg>
+                        <anchor synch="#tls58"/>ecco<anchor synch="#tls59"/>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb75" synch="#tlp137">
+                    <seg>
+                        frequentava<pause/> casa mia<pc resp="#DT">,</pc> <del type="falseStart">ci si</del> <vocal><desc>mhh</desc></vocal> <anchor synch="#tls60"/>lei era una<anchor synch="#tls61"/> 
+                    </seg>
+                </u>
+                
+                <u who="#MR" xml:id="mr47" synch="#tlp138">
+                    <seg>
+                        <anchor synch="#tls60"/>ecco <anchor synch="#tls61"/>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb76" synch="#tlp139">
+                    <seg>
+                        donna <emph>molto</emph> in gamba<pc resp="#DT">,</pc> lavorava al <orgName ref="#CDEC">Centro di <anchor synch="#tls62"/>documentazione<anchor synch="#tls63"/></orgName>
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr48" synch="#tlp140">
+                    <seg>
+                        <anchor synch="#tls62"/>sì sì<anchor synch="#tls63"/>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb77" synch="#tlp141">
+                    <seg>
+                        era molto informata<pause/> e <del type="reformulation">di</del> <pause/> prima di me e poi di <persName ref="#SEGRE">Liliana</persName><pc resp="#DT">,</pc><pause/> oltre 
+                        all’amicizia<pc resp="#DT">,</pc> voleva anche<pause/> ottenere il racconto di quello che avevamo vissuto<pc resp="#DT">.</pc><pause/> 
+                        E poi a un certo punto ci siamo incontrate insieme<pc resp="#DT">,</pc><pause/> <vocal><desc>ehm</desc></vocal> <rs type="person" ref="#GD">lei</rs> mi ha presentato 
+                        <persName ref="#SEGRE">Liliana</persName> e così è nata l’amicizia<pc resp="#DT">.</pc>
+                    </seg>
+                </u>
+            </div>
+
+            <!--Tornare ad Auschwitz-->
+            <div>
+                <u who="#BAUER" xml:id="gb78" synch="#tlp142">
+                    <seg>
+                        Sono andata tre volte ad <anchor synch="#tls64"/><placeName ref="#Au">Auschwitz</placeName><anchor synch="#tls65"/>
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr49" synch="#tlp143">
+                    <seg>
+                        <shift feature="loud" new="p"/><anchor synch="#tls64"/>tre volte ad<anchor synch="#tls65"/> <placeName ref="#Au">Auschwitz</placeName>
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb79" synch="#tlp144">
+                    <seg>
+                        L’ultima volta<pc resp="#DT">,</pc> qualche anno fa che è venuto<pause/>vi ricordate <del type="truncation">Ve</del> di <persName ref="#WV">Veltroni</persName><pc type="interrogative" resp="#DT">?</pc> 
+                    </seg>
+                </u>
+
+                <u who="#MR" xml:id="mr50" synch="#tlp145">
+                    <seg>
+                        sì
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb80" synch="#tlp146">
+                    <seg>
+                        Era il sindaco di <placeName ref="#Ro">Roma</placeName>
+                    </seg>
+                </u>
+
+                <u who="#LR" xml:id="lr17" synch="#tlp147">
+                    <seg>
+                        sì
+                    </seg>
+                </u>
+
+                <u who="#BAUER" xml:id="gb81" synch="#tlp148">
+                    <seg>
+                        E <rs type="person" ref="#WV">lui</rs> mi ha telefonato<pc resp="#DT">,</pc><pause/> che <vocal><desc>ehh</desc></vocal> voleva portare <rs type="person" ref="#WV">lui</rs> un 
+                        gruppo di ragazzi da <placeName ref="Ro">Roma</placeName> e <del type="repetition">se</del><pause/> se potevo venire con loro<pc resp="#DT">.</pc> E ho detto di sì<pc resp="#DT">.</pc> 
+                        E questo è stato l’ultimo viaggio che ho fatto ad <placeName ref="#Au">Auschwitz</placeName><pc resp="#DT">.</pc> 
+                    </seg>
+                    <seg>    
+                        Con <rs type="person" ref="#WV">lui</rs> ho un bellissimo ricordo<pc resp="#DT">,</pc> di lui e di tutto il gruppo che c’era <del type="correction">quel giorno</del> quella volta<pc resp="#DT">.</pc> 
+                        Siamo stati una settimana<pc resp="#DT">,</pc><pause/> tra <placeName ref="#Au">Auschwitz</placeName> e tutte le altre città che abbiamo visto e visitato<pc resp="#DT">.</pc> 
+                    </seg>
+                    <seg>
+                        <del type="falseStart">Lui è stato</del> <del type="falseStart">non so neanche che</del> sarà ancora in politica <persName ref="#WV">Veltroni</persName><pc resp="#DT">,</pc> non so cosa faccia<pc resp="#DT">.</pc> 
+                        Comunque è stato <emph>molto</emph> bravo e <del type="repetition">molto</del><pause/>molto coinvolto in questa storia<pc resp="#DT">,</pc> voleva approfondirla<pc resp="#DT">,</pc> mi ha mandato un libro<pc resp="#DT">,</pc> 
+                        mi ha chiesto di mandare anch'io un libro<pause/> così <vocal><desc>ehh</desc></vocal><pause/> sì me lo ricordo bene<pc resp="#DT">.</pc><pause type="medium" dur="PT3S"/> 
+                    </seg>
+                    <seg>    
+                        E sì <del type="correction">è st</del>io son stata tre volte ad <placeName ref="#Au">Auschwitz</placeName><pc resp="#DT">:</pc> la prima volta<pause/> <del type="correction">con</del><pause/>col 
+                        <orgName ref="#CDEC">Centro di documentazione</orgName><pc resp="#DT">,</pc> e una volta sono andata con mio <rs type="person" ref="#RB">marito</rs><pause/> <vocal><desc>ehhh</desc></vocal><pause/> 
+                        e poi quest’altra volta <del type="correction">con</del> quando c’era <persName ref="#WV">Veltroni</persName><pause/> 
+                    </seg>
+                    <seg>    
+                        <shift feature="voice" new="giggle"/>E le dirò<pc resp="#DT">,</pc> <shift feature="voice" new="normal"/>l’ultima volta che sono stata<pc resp="#DT">,</pc> ma non questa di 
+                        <persName ref="#WV">Veltroni</persName><pc resp="#DT">,</pc> che ho fatto un viaggio<pc resp="#DT">,</pc> che mio <rs type="person" ref="#RB">marito</rs> 
+                        <vocal><desc>si schiarisce la voce</desc></vocal>andava a fare un viaggio in vari Paesi<pc resp="#DT">,</pc><pause/> per lavoro<pc resp="#DT">,</pc> e io <del type="repetition">ho voluto</del><pause/> 
+                        ho voluto andare con <rs type="person" ref="#RB">lui</rs><pc resp="#DT">,</pc> seguirlo<pc resp="#DT">,</pc> <vocal><desc>ehhh</desc></vocal>un po’ per vedere<pause/> posti 
+                        che non avevo visto<pause/> <vocal><desc>ehhh</desc></vocal> e uno di questi posti era in <placeName ref="#POL">Polonia</placeName><pause/> <vocal><desc>ehhh</desc></vocal> ed era molto vicino ad 
+                        <placeName ref="#Au">Auschwitz</placeName><pc resp="#DT">,</pc> adesso non mi ricordo se era <placeName ref="#Kra">Cracovia</placeName><pc resp="#DT">,</pc> non so<pc resp="#DT">,</pc> 
+                        ecco<pc resp="#DT">,</pc><pause/><vocal><desc>ehhh</desc></vocal><pause/> <incident><desc>suono del clacson di auto</desc></incident><pause/> e allora c’era qualcuno<pc resp="#DT">,</pc> 
+                        che lì avevamo conosciuto anche durante il viaggio <shift feature="voice" new="giggle"/><pc type="quotation" resp="#DT">“</pc><quote>Andiamo<pc type="interrogative" resp="#DT">?</pc></quote><pc type="quotation" resp="#DT">“</pc> 
+                        e io <shift feature="voice" new="trem"/>non ho più avuto la forza di andarci<pc resp="#DT">.</pc> Ho detto <pc type="quotation" resp="#DT">“</pc><quote>No basta<pc resp="#DT">,</pc><pause/> 
+                        l’ho già visto tre volte<pc resp="#DT">,</pc> basta</quote><pc type="quotation" resp="#DT">”</pc><pc resp="#DT">.</pc>
+                    </seg> 
+                    <seg>    
+                        <shift feature="voice" new="giggle"/>E invece le dirò una cosa che è ancora più<pause/> <kinesic><desc>scuote la testa stringendosi nelle spalle</desc></kinesic>balorda<pc resp="#DT">,</pc> 
+                        <shift feature="voice" new="trem"/>che adesso ci tornerei ancora<pc resp="#DT">,</pc><pause/> perché quando vedo gli altri<pc resp="#DT">,</pc><pause/> che vanno al cimitero il giorno 
+                        della <vocal><desc>eh</desc></vocal> e io non ho le tombe dei miei<pc resp="#DT">,</pc> vorrei ancora andare ad <placeName ref="#Au">Auschwitz</placeName><pc resp="#DT">,</pc> 
+                        dove non ci son tombe<pc resp="#DT">,</pc> ma dove loro son morti<pc resp="#DT">.</pc>
+                    </seg>
+                </u>
+
+            </div>
 
         </body>
     </text>

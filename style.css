@@ -1,0 +1,1719 @@
+/*Application styles could go here */
+
+
+*{
+    top:0;
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    /*font-family:  Verdana, Geneva, sans-serif;*/
+    font-family: "Mulish", sans-serif;
+}
+
+/*--------------------------------BODY --------------------------------*/
+
+/* FIXME s element on FELD */
+
+s{
+    text-decoration: none;
+}    
+
+
+/* Stile per il pulsante di copia */
+
+
+/* Stile per il pulsante di copia */
+.copy-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 8px 12px;
+    background-color:#04395F;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.copy-btn:hover {
+    
+    background-color: #007bff;
+}
+
+.copy-btn i {
+    margin-right: 6px;
+}
+
+.copy-btn:focus {
+    outline: none;
+}
+
+/* Stile per textarea */
+textarea {
+    padding-bottom: 40px; /* Fa spazio per il pulsante nella parte inferiore */
+    resize: none;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+
+
+body {
+    text-align: justify;
+    background-color: #FFFFFF;
+    font-size: 18px;
+    
+    /*height:500px;*/
+}
+
+
+div#background{
+    margin-top:40%; 
+    
+}
+
+div#background p{
+    text-align:center;
+    
+    
+}
+
+
+/*treegraph*/
+.highcharts-figure1{
+    margin: 0 auto;
+    max-width: 1200px;
+    min-width: 1000px;
+}
+
+#container1, #container{
+    margin-top:10%;
+    margin-bottom:10%;
+}
+
+
+
+
+/*pie chart*/
+.highcharts-figure,
+.highcharts-data-table table {
+     min-width: 600px;
+    max-width: 1000px;
+    margin: 1em auto;
+}
+
+.highcharts-data-table table {
+    font-family: Verdana, sans-serif;
+    border-collapse: collapse;
+    border: 1px solid #ebebeb;
+    margin: 10px auto;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+}
+
+.highcharts-data-table caption {
+    padding: 1em 0;
+    font-size: 1.2em;
+    color: #555;
+}
+
+.highcharts-data-table th {
+    font-weight: 600;
+    padding: 0.5em;
+}
+
+.highcharts-data-table td,
+.highcharts-data-table th,
+.highcharts-data-table caption {
+    padding: 0.5em;
+}
+
+.highcharts-data-table thead tr,
+.highcharts-data-table tr:nth-child(even) {
+    background: #f8f8f8;
+}
+
+.highcharts-data-table tr:hover {
+    background: #f1f7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -------------- media query --------------------*/
+
+
+/*icona apertura menù*/
+.icon{
+    font-size:25px;
+    display:none;
+}
+
+
+
+/*media query per menù responsive*/
+@media only screen and (max-width: 1250px) {
+    .nav-item{  /*:not(:nth-child(1)) codice per mostrare solo il primo elemento del menu*/
+        display: none;
+    }
+    .menu.responsive {
+        flex-direction: column;
+        width: 100%;
+        height: 100vh;
+        background-color: #04395F;
+        z-index: 999; /* Assicura che il menu sia visibile sopra gli altri elementi */
+        position: fixed;
+        transition: all .6s ease-in-out;
+        
+    }
+    
+    .menu.responsive .nav-item {
+        display: block;
+        margin: 0;
+        font-size:17px;
+        transition: transform 0.3s ease;
+        
+    }
+    
+    .menu.responsive .nav-item:hover{
+        transform: scale(1.2);
+        background-color: #04395F;
+    }
+    
+    .icon {
+        position:fixed;
+        display: block;
+        right: 50px; /* Distanza dalla parte destra */
+        z-index: 1000; /* Assicura che l'icona sia visibile sopra gli altri elementi */
+        cursor:pointer;
+        transition: transform 0.3s ease;
+    }
+    .icon:hover {
+        transform: scale(1.2); /* Esempio: ingrandisci leggermente l'icona quando il mouse è sopra */
+    }
+    
+    /* Visualizza l'icona di chiusura quando il menu è aperto */
+    .menu.responsive .icon {
+        /*display: none;*/
+        position:fixed;
+        display: block;
+        right: 50px; /* Distanza dalla parte destra */
+        z-index: 1000; /* Assicura che l'icona sia visibile sopra gli altri elementi */
+        cursor:pointer;
+        transition: transform 0.3s ease;
+    }
+
+    .menu.responsive .icon-close {
+        
+        position:fixed;
+        display: block;
+        right: 50px; /* Distanza dalla parte destra */
+        z-index: 1000; /* Assicura che l'icona sia visibile sopra gli altri elementi */
+        cursor:pointer;
+        transition: transform 0.3s ease;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 1300px) {
+
+    #alfabeto_container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .AlphabetNav {
+    flex-wrap: wrap;
+  }
+  
+  .AlphabetNav a {
+    flex:0 10%; /* Mostra 4 link per riga */
+    margin: 5px; /* Aggiunge spazio tra i link */
+    
+  }
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+/*-------------------------------- TITOLO VOCI DALL'INFERNO ----------------------------*/
+#titolo_home_page{
+    
+    text-align: center;
+    font-size: 70px;
+    color:#04395F;
+}
+
+#sottotitolo{
+    text-align: center;
+    font-size: 35px;
+    color:#04395F;
+}
+
+
+
+
+/*-------------------------------- MENU -------------------------------- */
+/*barra navbar che contiene il menù*/
+.navbar{
+    position: fixed;
+    width: 100%;
+    line-height: 70px;
+    height: 70px;
+    background-color:#04395F;
+    z-index:1000;
+}   
+
+/*menu*/
+.menu{
+    display:flex;
+    height: 60px;
+    list-style:none;
+    font-size:16px;
+    justify-content:center;
+    text-align:center;
+    text-transform: uppercase;
+}
+
+
+.nav-item{
+    margin-left: 9px;
+    margin-right: 9px;
+    
+}
+
+.nav-item a{
+    display:inline-block; 
+    text-decoration: none;
+    padding: 0 20px;  
+    color:white;
+    white-space: nowrap;  /*per risolvere problema overflow*/
+    transition: transform 0.3s ease;  /*animazione che ingrandisce la scritta*/
+}
+
+
+.nav-item a:hover{
+    transform: scale(1.2);  /*animazione che ingrandisce la scritta*/
+    transition:0.5s;
+   
+}
+
+.nav-item .active {
+       display: inline;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+
+
+
+
+
+
+
+/************** pagina progetto_voci.html **************/
+#text_container{
+    padding-top:130px;
+    padding-left:120px;
+    padding-right:120px;
+    padding-bottom:80px;
+   /* height:100vh; altezza totale del contenitore dove inserisco il testo*/
+    
+ 
+}
+
+#text{
+    
+    margin-bottom:40px;
+    line-height : 1.5;
+}
+
+#text section{
+    margin-top:5%;
+    
+}
+
+#text h3{
+    margin-bottom:10px;
+}
+#text h4{
+    margin-bottom:5px;
+    margin-top:25px;
+}
+
+
+/* -------------------------------- ALFABETO -------------------------------- */
+
+#alfabeto_container{
+    padding-left:40px;
+    padding-right:40px;
+}
+
+.AlphabetNav{
+    width:100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.AlphabetNav a{
+    position:relative;
+    justify-content: center;
+    border-radius: 8px;
+    color:white;
+    font-size:18px;
+   
+    text-decoration:none;
+    text-align: center;
+    background-color:#04395F;
+    padding: 8px 16px;
+    transition-duration: 0.4s;
+    transform: 0.3s ease;
+    cursor: pointer;
+    
+    margin: 0 4px; 
+}
+
+.AlphabetNav a:hover{
+    transform: scale(1.3);
+    
+}
+
+
+
+
+/*--------------------------- LE VOCI -----------------------------*/
+#archivio{
+    text-align: center;
+    padding-bottom:20px;
+}
+
+/* -------------------------------- LISTA TESTIMONI --------------------------------*/
+.box_testimoni {
+    margin-top:5%;
+    column-count: 3; /* Divide il contenuto in tre colonne */
+    /*column-gap:5px; /*Spazio tra le colonne */
+}
+
+.elenco_testimoni{
+    line-height : 2.5;
+    /*display:flex; per mettere tutti i nomi in orizzontale*/
+    justify-content: space-between;
+    text-align:center;
+    break-inside: avoid; /* Evita che un singolo elemento si spezzi su più colonne */
+}
+
+.elenco_testimoni p{
+    transition-duration: 0.4s;
+    transform: 0.3s ease;
+}
+
+.elenco_testimoni p:hover{
+     transform: scale(1.2);
+}
+
+.nome_testimone{
+    text-decoration:none;
+    color:black;
+    cursor:pointer;
+    font-size:20px;
+}
+
+/*media query per disporre la lista dei testimoni in una sola colonna quando restringo la finestra*/
+@media screen and (max-width: 850px) {
+    .box_testimoni {
+        column-count: 1; /* Imposta una sola colonna */
+        text-align: center; /* Centra il contenuto */
+    }
+}
+
+
+
+
+/*-------------------------------- ELENCO TESTIMONIANZE E FOTO TESTIMONE -------------------------------- */
+
+#informazioni{
+    display:flex;
+    flex-direction: row; /* Allinea gli elementi in orizzontale */
+    justify-content: space-between; /* Distribuisce gli elementi lungo la riga */
+}
+
+#img_testimone{
+   max-width: 100%;
+   height:auto;
+   
+}
+
+
+#button_statistiche_testimone{
+    text-align:center;
+}
+
+
+#button_statistiche_testimone button{
+    padding:15px;
+    border-radius:10px;
+    border-style:none;
+    color:white;
+    cursor:pointer;
+    background-color:#04395F;
+    transition-duration: 0.3s;
+    transform: 0.3s ease;
+    margin-top:20px;
+    text-transform: uppercase;
+    width:210px;
+}
+
+#button_statistiche_testimone button:hover{
+    transform: scale(1.2);
+}
+
+
+#lista_testimonianze{
+    padding-top:15%;
+}
+
+
+#lista_testimonianze p{
+    text-transform: uppercase;
+    margin-bottom:20px;
+    text-align:center;
+}
+
+#lista_testimonianze ul{
+    padding-bottom:20px;
+    width: 100%;
+    height:auto;
+    text-align:center;
+    text-decoration:none;
+    list-style-type: none;
+    
+    box-sizing: border-box;
+    border: 2px solid #04395F;
+    border-radius: 8px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+#lista_testimonianze ul li{
+    font-size:16px;
+    transition-duration: 0.3s;
+    transform: 0.3s ease;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+#lista_testimonianze ul li:hover{
+    transform: scale(1.1);
+}
+
+
+
+.statisticheTestimone h2{
+    text-align:center;
+}
+
+
+.statisticheTestimone{
+    padding-left:120px;
+    padding-right:120px;
+    margin-top:20%;
+    width:100%;
+    height:auto;
+    
+    
+    
+}
+
+
+
+
+/*div che contiene nome testimone, num testimonianze ed elenco titoli testimonianze*/
+.cat{
+    padding-left:10%;
+    width:80%;
+    padding-right: 10%; 
+    text-align:left;
+}
+
+.cat h2{
+    text-align:center;
+}
+
+#bio_testimone{
+    text-align:justify;
+}
+
+
+.testimonianza{
+    text-decoration:none;
+    color:black;
+    cursor:pointer;
+    font-style:italic;
+    font-weight:bold;
+    margin-top:30px;
+    
+}
+
+
+/*div che contiene sia button wikipedia che img testimone*/
+.immagine_e_fonte{
+    width: 50%; 
+    height:auto;
+    padding-right:7%;
+    padding-left:7%;
+    
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.immagine_e_fonte button{
+    padding:15px;
+    border-radius:10px;
+    border-style:none;
+    color:#04395F;
+    cursor:pointer;
+    background-color:#04395F;
+    transition-duration: 0.3s;
+    transform: 0.3s ease;
+    margin-top:20px;
+    width:auto;
+    
+    
+}
+.immagine_e_fonte button:hover{
+    transform: scale(1.2);
+}
+
+
+#tabella_organizzazioni{
+    margin-top:30px;
+}
+
+#linkFonte{
+    color:white;
+    text-decoration:none;
+    justify-content:center;
+    text-align:center;
+    text-transform: uppercase;
+}
+
+
+@media screen and (max-width:500px) {
+    /* Disposizione in verticale al centro solo quando responsive */
+    #informazioni {
+        flex-direction: column; /* Disponi gli elementi in verticale */
+        
+        align-items: center; /* Allinea gli elementi al centro orizzontalmente */
+    }
+
+     #img_testimone {
+        max-width: 60%;
+        padding-bottom:10px;
+        
+    }
+
+    .immagine_e_fonte {
+        padding-top:30px;
+        width: 80%; 
+        padding-right: 0; /* Rimuovi il padding destro */
+        text-align: center; /* Centra il contenuto orizzontalmente */
+    }
+    
+}
+
+
+
+
+
+
+/* -------------------------------- PAGINA PER CONSULTARE LA TESTIMONIANZA ------------------------------- */
+/*nome testimone e titolo testimonianza*/
+#titolo{
+    text-align:center;
+    font-style:italic;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+
+/*div che contiene info sulla testimonianza*/
+.box{
+    /*padding-left:80px;*/
+    max-width:900px; 
+    margin: 0 auto;
+    text-align:center;
+}
+
+/*info sulla testimoninza consultata*/
+.info {
+    margin-top: 40px;
+    font-size: 16px;
+    padding: 8px;
+    width: 100%;
+    line-height: 1.6;
+    box-sizing: border-box;
+    border: 2px solid #04395F; /* Rimuovi il bordo */
+    border-radius: 8px; /* Aggiungi bordi arrotondati */
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1); /* Aggiungi ombra */
+}
+
+
+.button_sezioni{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+    padding:5%;
+    justify-content: space-evenly;
+}
+
+
+.leggi_testimonianza button{
+    padding:15px;
+    border-radius:10px;
+    border-style:none;
+    cursor:pointer;
+    background-color:#04395F;
+    color:white;
+    transition-duration: 0.3s;
+    transform: 0.3s ease;
+    text-transform: uppercase;
+    text-decoration:none;
+    width:auto;
+    
+}
+
+.leggi_testimonianza button:hover{
+    transform: scale(1.1);
+}
+
+.vedi_statistiche_testimonianza button{
+    padding:15px;
+    border-radius:10px;
+    border-style:none;
+    cursor:pointer;
+    background-color:#04395F;
+    color:white;
+    transition-duration: 0.3s;
+    transform: 0.3s ease;
+    text-transform: uppercase;
+    text-decoration:none;
+    width:auto;
+}
+.vedi_statistiche_testimonianza button:hover{
+    transform: scale(1.1);
+}
+
+.ricerca_dante button{
+    padding:15px;
+    border-radius:10px;
+    border-style:none;
+    cursor:pointer;
+    background-color:#04395F;
+    color:white;
+    transition-duration: 0.3s;
+    transform: 0.3s ease;
+    text-transform: uppercase;
+    text-decoration:none;
+    width:auto;
+}
+
+.ricerca_dante button:hover{
+    transform: scale(1.1);
+}
+
+
+.deportati, .non_deportati {
+
+    margin-right: 10px; /* Spazio tra i due div */
+}
+
+.categoria{
+    justify-content: center; /* Centra orizzontalmente */
+    align-items: center; /* Centra verticalmente */
+    
+    display: flex;
+}
+.categoria button{
+    margin:30px;
+    
+  
+    padding:15px;
+    border-radius:10px;
+    border-style:none;
+    cursor:pointer;
+    background-color:#04395F;
+    color:white;
+    transition-duration: 0.3s;
+    transform: 0.3s ease;
+    text-transform: uppercase;
+    text-decoration:none;
+    width:auto;
+}
+
+.categoria button a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+
+.categoria button:hover{
+    transform: scale(1.1);
+    
+}
+
+.pie_chart_archivio{
+    margin-top:50px;
+    text-align: center;
+}
+.pie_chart_archivio p{
+    margin-bottom:20px;
+}
+
+
+
+
+
+/*div per regesto testimonianze orali*/
+.regesto {
+    margin-top: 80px;
+    padding-left: 90px;
+    padding-right: 90px;
+    text-align:center;
+    
+}
+
+/* sezioni che compongono il regesto*/
+.parti_regesto{
+    /*border:1px solid #04395F;*/
+    border-radius:8px;
+    box-shadow:4px 4px 4px rgba(0, 0, 0, 0.1);
+    padding:1%;
+    margin-top:20px;
+    margin-bottom:20px;
+    background-color:#A2ACBD;
+    line-height: 1.5;
+  
+}
+
+#testo_regesto{
+    margin-bottom:30px;
+}
+
+#durata_regesto{
+    font-weight: bold;
+    text-transform:uppercase;
+}
+
+
+#audio-intervista {
+    margin-top: 15px;
+    height: 30px;
+}
+
+@media only screen and (max-width: 700px) {
+   #audio-intervista{
+      width:80%;
+  }
+  
+}
+
+
+
+.intervista{
+    margin-top:7%;
+}
+
+.trascrizione-legenda-container {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top:5%; /* Aggiungi margine sopra */
+    
+}
+
+
+
+
+.trascrizione{
+    width:70%;
+    padding-left:1%;
+    
+    padding-right:1%;
+
+    /*aggiunta scrollbar*/
+    overflow-y: auto; 
+    max-height: 550px;
+    
+}
+
+
+/* Stile scrollbar */
+.trascrizione::-webkit-scrollbar {
+    width: 7px; 
+}
+
+/* Stile parte di trascinamento della scrollbar */
+.trascrizione::-webkit-scrollbar-thumb {
+    background-color: #04395F; /* Colore della parte di trascinamento */
+    border-radius: 5px; 
+}
+
+/* Stile traccia della scrollbar */
+.trascrizione::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Colore della traccia */
+}
+
+
+
+.trascrizione p{
+    line-height: 2.3;
+}
+
+.lista_parlanti{
+    text-align:center;
+    font-size: 15px;
+    padding: 8px;
+    margin:0 auto;
+    max-width:600px;
+    line-height: 1.6;
+    box-sizing: border-box;
+    border: 2px solid #04395F; /* Rimuovi il bordo */
+    border-radius: 8px; /* Aggiungi bordi arrotondati */
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1); /* Aggiungi ombra */
+    margin-top:10px;
+}
+
+
+
+.audio_testimonianza{
+    text-align:center;
+    margin-top:2%;
+    
+    
+}
+
+.audio_player{
+    height:30px;
+    
+}
+
+.divLegenda{
+    width:30%;
+   
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.intervista h2{
+    margin-bottom:30px; 
+    text-align:center;
+}
+
+
+/*contenuto della legenda*/
+.legenda{
+    
+    list-style:none;
+    text-align:center;
+    width:350px;
+    padding:2%;
+    box-sizing: border-box;
+    border: 2px solid #04395F; /* Rimuovi il bordo */
+    border-radius: 8px; /* Aggiungi bordi arrotondati */
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1); /* Aggiungi ombra */
+    line-height:2;
+    margin-left:2%;
+    
+}
+
+.legenda li{
+    font-size:15px;
+    cursor:pointer;
+    transition-duration: 0.2s;
+    transform: 0.2s ease;
+}
+
+.legenda li:hover{
+    transform: scale(1.2);
+    
+}
+
+/*titolo legenda*/
+.legenda h3{
+    text-align:center;
+    margin-bottom:20px;
+}
+
+/*bottone mostra fenomeni sotto la legenda*/
+#buttonLegenda button{
+    margin-top:20px;
+   
+    padding:15px;
+    border-radius:10px;
+    border-style:none;
+    color:#04395F;
+    color:white;
+    cursor:pointer;
+    text-transform: uppercase;
+    background-color:#04395F;
+    transition-duration: 0.3s;
+    transform: 0.3s ease;
+    width:210px;
+}
+
+#buttonLegenda button:hover{
+    transform: scale(1.2);
+}
+
+
+
+@media screen and (max-width:1400px){
+    
+    .trascrizione-legenda-container{
+        flex-direction:column;
+        justify-content:center;   
+        align-items:center;
+    }
+    
+    .divLegenda{
+        margin-top:5%;
+    }
+    
+}
+
+
+@media screen and (max-width: 768px) {
+    .box {padding-left: 20px;}
+    .info { width: calc(100% - 40px); /* Sottrae il doppio del padding dal 100% */}
+    
+    .regesto, .intervista {
+        padding-left: 20px; /* Riduci il padding ai lati per adattarlo a dispositivi più piccoli */
+        padding-right: 20px;
+    }
+    
+    
+}
+
+
+
+
+
+
+/******stile fenomeni del parlato******/
+
+/*gap, pause ecc sono le classi degli <span> e voglio che non vengano mostrati quando carico la testimonianza - daria*/
+.gap,.pause,.vocal,.incident,.kinesic,.del,.corr,.reg,.bibl,.expan{
+    display:none;
+}
+
+
+/*anche loro sono classi degli <span> -daria. questi devono cambiare colore ma non devono mai sparire dal testo quando riclicco il button*/
+.unclear,.sic,.orig,.emph,.foreign,.persName,.placeName,.orgName,.abbr{
+    color:black;
+}
+
+
+.section_tabella{
+    text-align:center;
+    padding-left:60px;
+    padding-right:45px;
+    
+    overflow-y: auto;
+    max-height: 450px;
+    
+    margin-bottom:10%;
+}
+
+@media only screen and (max-width: 1350px) {
+    body{  /*:not(:nth-child(1)) codice per mostrare solo il primo elemento del menu*/
+        font-size: 14px;
+    }
+    
+    .section_tabella{
+    font-size:12px;
+    }
+    
+    
+    .info{
+        font-size:12px;
+    }
+    
+    .legenda li{
+        font-size:12px;
+    }
+    
+}
+
+
+/* Stile scrollbar */
+.section_tabella::-webkit-scrollbar {
+    width: 7px; 
+}
+
+/* Stile parte di trascinamento della scrollbar */
+.section_tabella::-webkit-scrollbar-thumb {
+    background-color: #04395F; /* Colore della parte di trascinamento */
+    border-radius: 5px; 
+}
+
+/* Stile traccia della scrollbar */
+.section_tabella::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Colore della traccia */
+}
+
+
+
+.tabella{
+    border-collapse: collapse;
+    width:100%;
+   
+}
+
+.tabella th,td{
+    box-sizing: border-box;
+    border: 2px solid #04395F;
+   
+    padding: 10px;
+}
+
+
+.tabella th{
+    background-color:#04395F;  
+    color:white;
+   
+}
+
+.statistiche{
+    margin-top:20px;
+    /*padding-left: 90px;
+    padding-right: 90px;*/
+    
+    
+    text-align: center;
+    display:flex;
+    
+       
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.statistiche h2{
+    margin-bottom:30px;
+}
+
+.info_statistiche_orale, .info_statistiche_scritto, .entita_nominate_orale, .entita_nominate_scritto, .frequenza_parole{
+    font-size: 14px;
+    padding: 20px;
+    
+    width: 50%;
+    height:100%;
+    line-height: 1.8;
+    box-sizing: border-box;
+    border: 2px solid #04395F;
+    border-radius: 8px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+    
+    margin-right:20%;
+    
+    flex:1;
+}
+
+#grafico_fenomeni{
+    width: 500px;  
+    height: 500px; 
+    
+}
+
+#grafico_fenomeni0 {
+    display: inline-block;
+}
+
+#grafico_fenomeni1{
+    width: 800px;  
+    height: 500px; 
+}
+
+
+.grafico1{
+    padding-right:30px;
+    
+}
+
+.grafico2{
+    padding-left:30px;
+    
+}
+
+
+@media only screen and (max-width: 1300px) {
+    #grafico_fenomeni, #grafico_fenomeni1{  
+        width: 200px;  
+        height: 200px; 
+    }
+}
+
+
+/*media query per menù responsive*/
+@media only screen and (max-width: 1400px) {
+    #grafico_fenomeni, #grafico_fenomeni1{  
+        width: 1000px;  
+        height: auto; 
+    }
+    
+   
+}
+
+
+
+
+
+
+
+
+
+.citazioni{
+    
+    padding-left:3%;
+    padding-right:3%;
+}
+.citazioni section{
+    
+    margin-top:40px;
+}
+
+.citazioni li{
+    /*list-style:none;*/
+    margin-top:20px;
+}
+
+
+
+#intro_statistiche_section{
+    margin-top:20px;
+    margin-bottom:10px;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+#intro_statistiche_section p{
+    margin-bottom:10px;
+}
+
+
+.section_dante{
+
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: stretch;
+    padding-top: 40px;
+    justify-content: space-between;
+}
+.citazioni{
+    flex:1;
+    max-width: 50%;
+    
+}
+.citazioni section{
+    margin-bottom:60px;
+}
+
+
+
+#divina_commedia{
+    flex:1;
+     display:none;
+     /*aggiunta scrollbar*/
+    overflow-y: auto; 
+    max-height: 550px;
+    max-width: 50%;
+    padding-right: 80px;
+    text-align: center;
+    
+}
+
+#divina_commedia h3{
+    text-align:center;
+}
+
+
+/* Stile scrollbar */
+#divina_commedia::-webkit-scrollbar {
+    width: 7px; 
+}
+
+/* Stile parte di trascinamento della scrollbar */
+#divina_commedia::-webkit-scrollbar-thumb {
+    background-color: #04395F; /* Colore della parte di trascinamento */
+    border-radius: 5px; 
+}
+
+/* Stile traccia della scrollbar */
+#divina_commedia::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Colore della traccia */
+}
+
+
+
+
+
+
+
+.ricerca_word{
+    margin-top: 120px;
+    padding-left: 90px;
+    padding-right: 90px;
+    text-align: center;
+}
+
+.ricerca_word form{
+    margin-top:20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ricerca_word form input{
+     padding:3px;
+    color:#04395F;
+    box-sizing: border-box;
+    border: 2px solid #04395F; 
+    border-radius: 8px; 
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1); 
+}
+
+
+
+/* --------------------------- RICERCA TESTIMONE TRAMITE FORM ---------------------*/
+
+/* Stili per il form e il div con attributo data-template */
+
+
+
+.ricerca_testimone h2{
+     text-align:center;
+}
+
+.ricerca_testimone p{
+    text-align:center;
+    margin-top:10px;
+    margin-bottom:20px;
+    font-size:16px;
+}
+
+
+
+#input_text{
+    padding:3px;
+    color:#04395F;
+    box-sizing: border-box;
+    border: 2px solid #04395F; 
+    border-radius: 8px; 
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1); 
+    
+}
+
+#label{
+    margin-top:10px;
+}
+
+#button_cerca{
+    padding:15px;
+    border-radius:10px;
+    border-style:none;
+    
+    color:white;
+    cursor:pointer;
+    text-transform: uppercase;
+    background-color:#04395F;
+    transition-duration: 0.3s;
+    transform: 0.3s ease;
+    
+    margin-top:20px;
+    
+}
+
+#button_cerca:hover{
+    transform: scale(1.2);
+}
+
+/*div che contiene sia i campi del form che il bottone cerca*/
+.form_e_button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:30px;
+}
+
+
+.form_query_div {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+}
+
+#label {
+    display: block;
+    font-weight: bold;
+}
+
+#input_text {
+    width: 100%;
+}
+
+#button_cerca {
+    grid-column: span 2;
+    justify-self: center;
+}
+
+
+/*.form_query_div{
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+    padding:2%;
+}*/
+
+.form_query_div label{
+    margin-bottom:6px;
+    font-size:16px;
+
+}
+
+
+#risultato_ricerca{
+    margin-top:10%;
+}
+
+
+#risultato_ricerca p{
+    
+    margin-top:20px;
+    
+    text-decoration:none;
+    color:black;
+    cursor:pointer;
+    font-size:18px;
+    
+    
+    transition-duration: 0.4s;
+    transform: 0.3s ease;
+}
+
+
+#risultato_ricerca p:hover{
+    transform: scale(1.2);
+    
+}
+
+#result{
+    border-collapse: collapse;
+    width: 100%;
+    
+    
+    box-sizing: border-box;
+    border: 2px solid #04395F;
+    border-radius: 8px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+    
+}
+
+
+
+
+
+
+
+
+/*--------------------------------- PAGINA DANTE ------------------------------*/
+#cit {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10%;
+    margin-top: 3%;
+    margin-bottom:4%;
+    align-content: center;
+    margin-left:3%;
+}
+
+
+
+#num_cit, #grafico_citazioni, #intro_corpus_dante, #ripartizione_dante, #archives, #graph{
+    flex: 1; /* Fa sì che i due div occupino lo stesso spazio */
+    
+     /*margin-left: 60px; Aggiunge uno spazio di 50px a sinistra */
+}
+
+#grafico_citazioni{
+     margin-left: auto; /* Spinge il div di destra verso destra */
+}
+
+
+#t_dante a:hover{
+    cursor:pointer;
+      font-weight: bold;
+    color:#04395F;
+ 
+}
+
+
+
+/*--------------------------------PAGINA UPLOAD AUDIO FILE -----------------------------*/
+
+
+
+
+
+/*--------------------------------PAGINA PERSONE -----------------------------*/
+
+
+
+
+#persone h3{
+    margin-bottom:10px;
+}
+
+#persone ul{
+    list-style:none;
+    line-height:1.6;
+    
+}
+
+#prof,#studenti,#ringraziamenti{
+    margin-bottom:20px;
+}
+
+
+
+/* -------------------------- EVENTI ---------------------*/
+
+#eventi{
+    text-align:center;
+}
+
+#eventi section{
+    margin-top:40px;
+}
+
+/* -------------------------- BIBLIOGRAFIA ---------------------*/
+#bibliografia li{
+    
+    margin-bottom:10px;
+}
+
+#sitografia{
+    margin-top:5%;
+}
+
+#sitografia li{
+    list-style:none;
+    margin-bottom:10px;
+}
+
+
+
+/*--------------------------------BOTTONI BACK E BOTTON UP -----------------------------* /
+/*pulsante back per tornare alla pagina precedente*/
+#back{
+	position:fixed;
+	top:20%;
+	left:3%;
+	z-index: 99;
+	background-color:#04395F;
+    color:white;
+	cursor: pointer;
+	border:none;
+  	padding: 12px 16px;
+  	justify-content: center;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    transform: 0.3s ease;
+}
+
+#back:hover{
+    transform: scale(1.2);
+}
+
+
+/*pulsante button up per tornare in cima alla pagina*/
+#buttonUp {
+	display:none;
+
+    position:fixed;
+	/*right:20px;
+	top:500px;*/
+	right:2%;
+	top:90%;
+	
+	z-index: 99;
+	background-color:#04395F;
+    color:white;
+    
+	
+	cursor: pointer;
+	border:none;
+  	transition-duration: 0.4s;
+  	padding: 12px 16px;
+  	justify-content: center;
+    border-radius: 8px;
+    transform: 0.3s ease;
+}
+
+#buttonUp:hover{
+     transform: scale(1.2);
+     
+}
+
+/*-------------------------------- FOOTER --------------------------------*/
+
+#footer{  
+    background-color:#04395F;
+    
+     /*background-color:#A2ACBD; provvisorio solo per vedere i loghi*/
+    text-align: center;
+    position:relative;
+    margin-top:100%;
+    /*padding-top:90px;*/
+    width: 100%;
+    height:auto;
+}
+
+.text_footer{
+    padding-bottom:10px;
+    font-size:14px;
+    color:#FFFFFF;
+}
+
+.loghi{
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    display:flex;
+    justify-content: space-between; /* Distribuisce gli elementi in modo uniforme */
+    align-items: center; /* Allinea verticalmente i loghi */
+    flex-direction: row; /* Disponi i loghi in orizzontale */
+}
+
+
+.logo_unipi,.logo_aiucd,.logo_clarin,.logo_h2iosc,.logo_diptext,.logo_cdec{
+    flex: 1; /* Ogni logo occupa lo stesso spazio */
+}
+
+#unipi_icon{
+    height: 100%; /* Occupa tutta l'altezza del contenitore */
+    width:50%;
+}
+
+#cdec_icon{
+     height:100%;
+    width:60%;
+}
+
+#aiucd_icon{
+    height: 100%; /* Occupa tutta l'altezza del contenitore */
+    width:60%;
+}
+
+#clarin_icon{
+    height:100%;
+    width:60%;
+}
+
+#h2iosc_icon{
+    height:100%;
+    width:60%;
+}
+
+#diptext_icon{
+    height:100%;
+    width:60%;
+}
+
+
+#exist_icon{
+    margin-top:10px;
+    margin-bottom:10px;
+    height:100%;
+    width:8%;
+}
+
+
+
+@media only screen and (max-width: 1250px) {
+    
+    .text_footer{
+    padding-bottom:10px;
+    padding-top:10px;
+    font-size:10px;
+    color:#FFFFFF;
+    
+    }
+    .loghi{
+    padding-top:10px;
+    padding-bottom:20px;
+    display:inline;
+    justify-content: space-between; /* Distribuisce gli elementi in modo uniforme */
+    align-items: center; /* Allinea verticalmente i loghi */
+    
+    }
+    
+    .logo_unipi, .logo_aiucd,.logo_clarin,.logo_h2iosc,.logo_diptext,.logo_cdec{
+    flex: 1; /* Ogni logo occupa lo stesso spazio */
+    }
+    
+    #aiucd_icon, #unipi_icon, #exist_icon,#clarin_icon,#h2iosc_icon,#diptext_icon,#cdec_icon{
+    height: 100%; /* Occupa tutta l'altezza del contenitore */
+    width:20%;
+    padding-top:10px;
+    
+    }
+}
+
